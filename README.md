@@ -9,6 +9,8 @@
 <a href="https://leetcode.com/ritesh2--5/"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="profile of LeetCode with user ritesh2005" /></a>
 </div>
 
+<br><br>
+
 | ![Ritesh Kumar Swain GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritesh001-Git&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Ritesh Kumar Swain GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh001-Git&theme=icegray&border_radius=8) |
 | -- | -- |
 
