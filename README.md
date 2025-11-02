@@ -14,21 +14,32 @@
 | ![Ritesh Kumar Swain GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritesh001-Git&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Ritesh Kumar Swain GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh001-Git&theme=icegray&border_radius=8) |
 | -- | -- |
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">🚀 Tech Stack</h2>
+
+<h3 align="center">Cloud & DevOps</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-d5d5d5?style=for-the-badge&logo=c&logoColor=0A0209" alt="C" />
-  <img src="https://img.shields.io/badge/C++-d5d5d5?style=for-the-badge&logo=c%2B%2B&logoColor=0A0209" alt="C++" />
-  <img src="https://img.shields.io/badge/Dart-d5d5d5?style=for-the-badge&logo=dart&logoColor=0A0209" alt="Dart" />
-  <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
-</p>
-<br>
-<p align="center">
+  <!-- DevOps + Cloud Badges -->
   <img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-d5d5d5?style=for-the-badge&logo=docker&logoColor=0A0209" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-d5d5d5?style=for-the-badge&logo=kubernetes&logoColor=0A0209" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Jira-d5d5d5?style=for-the-badge&logo=jira&logoColor=0A0209" alt="Jira" />
 </p>
+
+<h3 align="center">Programming</h3>
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-d5d5d5?style=for-the-badge&logo=c&logoColor=0A0209" alt="C" />
+  <img src="https://img.shields.io/badge/C++-d5d5d5?style=for-the-badge&logo=c%2B%2B&logoColor=0A0209" alt="C++" />
+  <img src="https://img.shields.io/badge/Dart-d5d5d5?style=for-the-badge&logo=dart&logoColor=0A0209" alt="Dart" />
+  <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python" />
+</p>
+
+<h3 align="center">Web Development</h3>
+<p align="center">
+  <!-- HTML/CSS/JS + Frameworks -->
+  <img src="https://img.shields.io/badge/HTML5-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
+</p>
+
