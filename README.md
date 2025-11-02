@@ -14,7 +14,7 @@
 | ![Ritesh Kumar Swain GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritesh001-Git&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Ritesh Kumar Swain GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh001-Git&theme=icegray&border_radius=8) |
 | -- | -- |
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <h3 align="center">Cloud & DevOps</h3>
 <p align="center">
@@ -44,4 +44,7 @@
   <img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=javascript&logoColor=0A0209" alt="JavaScript" />
 
 </p>
+
+<h3 align="center">Competitive Coding</h3>
+
 
