@@ -51,6 +51,9 @@
 <a href="https://leetcode.com/Ritesh001_Git/">
   <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" />
 </a>
-
+<!-- GeeksforGeeks -->
+<a href="https://auth.geeksforgeeks.org/user/your-username/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" alt="GeeksforGeeks" />
+</a>
 </p>
 
