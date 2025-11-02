@@ -16,6 +16,8 @@
 
 <h2 align="center">Tech Stack</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-d5d5d5?style=for-the-badge&logo=c&logoColor=0A0209" alt="" />
-  <img src="https://img.shields.io/badge/C++-d5d5d5?style=for-the-badge&logo=c%2B%2B&logoColor=0A0209" alt="" />
+  <img src="https://img.shields.io/badge/C-d5d5d5?style=for-the-badge&logo=c&logoColor=0A0209" alt="C" />
+  <img src="https://img.shields.io/badge/C++-d5d5d5?style=for-the-badge&logo=c%2B%2B&logoColor=0A0209" alt="C++" />
+  <img src="https://img.shields.io/badge/Dart-d5d5d5?style=for-the-badge&logo=dart&logoColor=0A0209" alt="Dart" />
+
 </p>
