@@ -20,5 +20,5 @@
   <img src="https://img.shields.io/badge/C++-d5d5d5?style=for-the-badge&logo=c%2B%2B&logoColor=0A0209" alt="C++" />
   <img src="https://img.shields.io/badge/Dart-d5d5d5?style=for-the-badge&logo=dart&logoColor=0A0209" alt="Dart" />
   <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java" />
-
+  <img src="https://img.shields.io/badge/Python-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python" />
 </p>
