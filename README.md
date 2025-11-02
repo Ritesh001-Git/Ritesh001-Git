@@ -5,6 +5,8 @@
 <a href="https://x.com/Ritesh_1973"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Ritesh_1973" ></a>
 <a href="mailto:riteshswain1973@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Ritesh i.e.   riteshswain1973@gmail.com" /></a>
 <a href="https://www.instagram.com/ritesh.swain.35/"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" alt="profile of Instagram with username ritesh.swain.35" /></a>
+<a href="https://leetcode.com/ritesh2--5/"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="profile of LeetCode with user ritesh2005" /></a>
+
 
 
 
