@@ -55,5 +55,9 @@
 <a href="https://auth.geeksforgeeks.org/user/your-username/">
   <img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" alt="GeeksforGeeks" />
 </a>
+<!-- HackerRank -->
+<a href="https://www.hackerrank.com/your-username">
+  <img src="https://img.shields.io/badge/HackerRank-d5d5d5?style=for-the-badge&logo=hackerrank&logoColor=0A0209" alt="HackerRank" />
+</a>
 </p>
 
