@@ -102,7 +102,10 @@
 <img src="https://raw.githubusercontent.com/Ritesh001-Git/Ritesh001-Git/output/snake.svg" alt="Snake animation" />
 </p>
 
-<hr style="border: 0; height: 2px; background: #C0C0C0; box-shadow: 0 0 6px #C0C0C0;">
+<p align="center">
+  <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" border="0" alt="animated-line-image-0446" /></a>
+</p>
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Parrot Animation -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
