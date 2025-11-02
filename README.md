@@ -28,5 +28,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-d5d5d5?style=for-the-badge&logo=docker&logoColor=0A0209" alt="Docker" />
 
 </p>
