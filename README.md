@@ -65,6 +65,8 @@
 </a>
 
 <h3 align="center">IDE & Environment</h3>
+</p>
+<p align="center">
 <!-- VS Code -->
 <a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/VS%20Code-d5d5d5?style=for-the-badge&logo=visualstudiocode&logoColor=0A0209" alt="VS Code" />
