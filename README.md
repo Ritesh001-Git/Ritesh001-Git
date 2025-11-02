@@ -102,6 +102,9 @@
 <img src="https://raw.githubusercontent.com/Ritesh001-Git/Ritesh001-Git/output/snake.svg" alt="Snake animation" />
 </p>
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
 <p align="center">
   <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" border="0" alt="animated-line-image-0446" /></a>
 </p>
