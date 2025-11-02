@@ -24,3 +24,7 @@
   <img src="https://img.shields.io/badge/HTML5-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
 </p>
+<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
+</p>
