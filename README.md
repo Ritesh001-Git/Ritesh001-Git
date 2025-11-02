@@ -52,15 +52,15 @@
   <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" />
 </a>
 <!-- GeeksforGeeks -->
-<a href="https://auth.geeksforgeeks.org/user/your-username/">
+<a href="https://www.geeksforgeeks.org/user/riteshsw9cvk/">
   <img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" alt="GeeksforGeeks" />
 </a>
 <!-- HackerRank -->
-<a href="https://www.hackerrank.com/your-username">
+<a href="">
   <img src="https://img.shields.io/badge/HackerRank-d5d5d5?style=for-the-badge&logo=hackerrank&logoColor=0A0209" alt="HackerRank" />
 </a>
 <!-- CodeChef -->
-<a href="https://www.codechef.com/users/your-username">
+<a href="">
   <img src="https://img.shields.io/badge/CodeChef-d5d5d5?style=for-the-badge&logo=codechef&logoColor=0A0209" alt="CodeChef" />
 </a>
 </p>
