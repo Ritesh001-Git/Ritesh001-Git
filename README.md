@@ -48,7 +48,7 @@
 <h3 align="center">Competitive Coding</h3>
 <p align="center">
   <!-- LeetCode -->
-<a href="https://leetcode.com/Ritesh001_Git/">
+<a href="https://leetcode.com/ritesh2005/">
   <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" />
 </a>
 <!-- GeeksforGeeks -->
