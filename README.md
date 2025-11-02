@@ -15,3 +15,6 @@
 | -- | -- |
 
 <h2 align="center">Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-d5d5d5?style=for-the-badge&logo=c&logoColor=0A0209" alt="C" />
+</p>
