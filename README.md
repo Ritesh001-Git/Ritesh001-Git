@@ -77,5 +77,9 @@
 <a href="https://developer.android.com/studio">
   <img src="https://img.shields.io/badge/Android%20Studio-d5d5d5?style=for-the-badge&logo=androidstudio&logoColor=0A0209" alt="Android Studio" />
 </a>
+<!-- Replit -->
+<a href="https://replit.com/">
+  <img src="https://img.shields.io/badge/Replit-d5d5d5?style=for-the-badge&logo=replit&logoColor=0A0209" alt="Replit" />
+</a>
 </p>
 
