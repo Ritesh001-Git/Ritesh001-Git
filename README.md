@@ -2,3 +2,5 @@
 
   <a href="https://www.linkedin.com/in/ritesh-kumar-swain/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Ritesh Swain" /></a>
 <a href="https://riteshswain.netlify.app/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="Portfolio of Ritesh Swain" /></a>
+<a href="https://x.com/Ritesh_1973"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Ritesh_1973" ></a>
+
