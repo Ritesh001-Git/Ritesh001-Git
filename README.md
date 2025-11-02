@@ -73,5 +73,9 @@
 <a href="https://developer.apple.com/xcode/">
   <img src="https://img.shields.io/badge/Xcode-d5d5d5?style=for-the-badge&logo=xcode&logoColor=0A0209" alt="Xcode" />
 </a>
+<!-- Android Studio -->
+<a href="https://developer.android.com/studio">
+  <img src="https://img.shields.io/badge/Android%20Studio-d5d5d5?style=for-the-badge&logo=androidstudio&logoColor=0A0209" alt="Android Studio" />
+</a>
 </p>
 
