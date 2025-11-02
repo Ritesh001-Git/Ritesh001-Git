@@ -81,5 +81,10 @@
 <a href="https://replit.com/">
   <img src="https://img.shields.io/badge/Replit-d5d5d5?style=for-the-badge&logo=replit&logoColor=0A0209" alt="Replit" />
 </a>
+
+<!-- Jupyter -->
+<a href="https://jupyter.org/">
+  <img src="https://img.shields.io/badge/Jupyter-d5d5d5?style=for-the-badge&logo=jupyter&logoColor=0A0209" alt="Jupyter Notebook" />
+</a>
 </p>
 
