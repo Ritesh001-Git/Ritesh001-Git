@@ -13,6 +13,28 @@
 ![Banner GitHub](https://private-user-images.githubusercontent.com/152496676/508682264-c384cd61-bd2d-4d14-a5a9-5414c7b386a7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIwNjUzNzAsIm5iZiI6MTc2MjA2NTA3MCwicGF0aCI6Ii8xNTI0OTY2NzYvNTA4NjgyMjY0LWMzODRjZDYxLWJkMmQtNGQxNC1hNWE5LTU0MTRjN2IzODZhNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwMlQwNjMxMTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMmIxMTA1ODAxNTFiOTM1YmQzODQyY2E3ZWE1YTk3NzEyN2RlOTc0MTU2YThlZGMwMTQ0NGZiODNhOGRhNTgzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KHeU1EapIAi1C3VQK-C3bTnSI1mY1jP6e14iF-cdNZo)
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #7F7F7F, #C0C0C0, #7F7F7F);">
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Summary -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+👋 Hi, I’m Ritesh Kumar Swain, a passionate CSE student at Lovely Professional University.
+I love exploring new technologies and constantly improving myself.
+
+☁️ Currently learning Cloud & DevOps.
+Focused on automation, CI/CD, and cloud infrastructure.
+
+🤖 Exploring AI & Machine Learning.
+Excited about building intelligent and real-world impactful systems.
+
+🧠 Practicing DSA and competitive programming.
+Sharpening problem-solving skills on LeetCode and CodeChef.
+
+🚀 Motivated to innovate, build projects, and grow every day.
+Always ready for new challenges and opportunities.
+
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #7F7F7F, #C0C0C0, #7F7F7F);">
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Social Links -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
