@@ -206,6 +206,23 @@
         <img src="https://img.shields.io/badge/VS_Code-2D2D2D?style=for-the-badge&logo=visualstudiocode&logoColor=silver"/>
       </td>
     </tr>
+
+    <!-- Project 5 -->
+  <tr>
+      <td>
+        <a href="https://github.com/Ritesh001-Git/plagchecker">
+  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">Plagiarism Checker & AI Content Detector</span>
+</a>
+      </td>
+      <td style="color:#A8A8A8;">About
+A lightweight, offline Java + HTML/JS application to detect both plagiarism and AI-generated content in text.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java" />
+        <img src="https://img.shields.io/badge/HTML5-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=javascript&logoColor=0A0209" alt="JavaScript" />
+      </td>
+    </tr>
   </body>
 </table>
 
