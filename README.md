@@ -137,67 +137,6 @@
       <th><span style="color:#C0C0C0; font-size:16px;">🛠️ Tech Stack</span></th>
     </tr>
   </thead>
-
-  <tbody>
-
-    <!-- Project 1 -->
-  <tr>
-      <td>
-        <a href="PROJECT_1_LINK">
-          <b style="color:#E0E0E0;">Project One</b>
-        </a>
-      </td>
-      <td style="color:#A8A8A8;">A short one-line summary about what problem this solves.</td>
-      <td>
-        <img src="https://img.shields.io/badge/AWS-2D2D2D?style=for-the-badge&logo=amazonwebservices&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/Terraform-2D2D2D?style=for-the-badge&logo=terraform&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/Linux-2D2D2D?style=for-the-badge&logo=linux&logoColor=silver"/>
-      </td>
-    </tr>
-
-    <!-- Project 2 -->
-  <tr>
-      <td>
-        <a href="PROJECT_2_LINK">
-          <b style="color:#E0E0E0;">Project Two</b>
-        </a>
-      </td>
-      <td style="color:#A8A8A8;">Deployment or infrastructure-related introduction here.</td>
-      <td>
-        <img src="https://img.shields.io/badge/Docker-2D2D2D?style=for-the-badge&logo=docker&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/Nginx-2D2D2D?style=for-the-badge&logo=nginx&logoColor=silver"/>
-      </td>
-    </tr>
-
-    <!-- Project 3 -->
-  <tr>
-      <td>
-        <a href="PROJECT_3_LINK">
-          <b style="color:#E0E0E0;">Project Three</b>
-        </a>
-      </td>
-      <td style="color:#A8A8A8;">Explain performance/monitoring or cloud usage.</td>
-      <td>
-        <img src="https://img.shields.io/badge/Kubernetes-2D2D2D?style=for-the-badge&logo=kubernetes&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/Grafana-2D2D2D?style=for-the-badge&logo=grafana&logoColor=silver"/>
-      </td>
-    </tr>
-
-    <!-- Project 4 -->
-  <tr>
-      <td>
-        <a href="PROJECT_4_LINK">
-          <b style="color:#E0E0E0;">Project Four</b>
-        </a>
-      </td>
-      <td style="color:#A8A8A8;">Short description of CI/CD automation or DevOps feature.</td>
-      <td>
-        <img src="https://img.shields.io/badge/GitHub%20Actions-2D2D2D?style=for-the-badge&logo=githubactions&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/CI%2FCD-2D2D2D?style=for-the-badge&logo=azurepipelines&logoColor=silver"/>
-      </td>
-    </tr>
-
-  </tbody>
 </table>
 
 
