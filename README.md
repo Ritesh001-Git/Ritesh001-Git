@@ -207,7 +207,7 @@
       </td>
     </tr>
 
-    <!-- Project 5 -->
+  <!-- Project 5 -->
   <tr>
       <td>
         <a href="https://github.com/Ritesh001-Git/plagchecker">
