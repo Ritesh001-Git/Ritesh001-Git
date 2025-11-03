@@ -59,11 +59,11 @@
 <!-- <h3 align="center">Programming</h3> -->
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-d5d5d5?style=for-the-badge&logo=c&logoColor=0A0209" alt="C" />
-  <img src="https://img.shields.io/badge/C++-d5d5d5?style=for-the-badge&logo=c%2B%2B&logoColor=0A0209" alt="C++" />
-  <img src="https://img.shields.io/badge/Dart-d5d5d5?style=for-the-badge&logo=dart&logoColor=0A0209" alt="Dart" />
-  <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python" />
+  <img src="https://img.shields.io/badge/C-2D2D2D?style=for-the-badge&logo=c&logoColor=silver"/>
+  <img src="https://img.shields.io/badge/C++-2D2D2D?style=for-the-badge&logo=cplusplus&logoColor=silver"/>
+  <img src="https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=silver"/>
+  <img src="https://img.shields.io/badge/Dart-2D2D2D?style=for-the-badge&logo=dart&logoColor=silver"/>
+  <img src="https://img.shields.io/badge/Java-2D2D2D?style=for-the-badge&logo=openjdk&logoColor=silver"/>
 </p>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
