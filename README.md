@@ -110,11 +110,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=CCCCCC&size=28&center=true&vCenter=true&height=60&width=1000&lines=✨+Thank+You+For+Visiting+My+Profile+—+See+You+Next+Time+✨">
 </p>
 
-
-<p align="center">
-  <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" border="0" alt="animated-line-image-0446" /></a>
-</p>
-
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Parrot Animation -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
