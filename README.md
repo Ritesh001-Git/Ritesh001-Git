@@ -176,7 +176,7 @@
   <!-- Project 3 -->
   <tr>
       <td>
-<a href="https://github.com/Ritesh001-Git/portfolio">
+<a href="https://github.com/Ritesh001-Git/serverless-image-resizer">
   <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">Serverless Image Resizer</span>
 </a>
       </td>
@@ -194,14 +194,13 @@
   <!-- Project 4 -->
   <tr>
       <td>
-        <a href="https://github.com/Ritesh001-Git/portfolio">
-  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">Portfolio</span>
+        <a href="https://github.com/Ritesh001-Git/DSA">
+  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">DSA</span>
 </a>
       </td>
-      <td style="color:#A8A8A8;">Short description of CI/CD automation or DevOps feature.</td>
+      <td style="color:#A8A8A8;">Collaborative DSA study space. Share, discuss, and improve solutions. Clear coding standards, documentation, and tests to help everyone learn and contribute.</td>
       <td>
-        <img src="https://img.shields.io/badge/GitHub%20Actions-2D2D2D?style=for-the-badge&logo=githubactions&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/CI%2FCD-2D2D2D?style=for-the-badge&logo=azurepipelines&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java" />
       </td>
     </tr>
   </body>
