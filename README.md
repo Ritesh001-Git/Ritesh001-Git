@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=48&duration=1800&pause=900&center=true&vCenter=true&width=900&height=100&color=E0E0E0&gradient=E0E0E0,C0C0C0,8A8A8A,5A5A5A&lines=Ritesh+Swain;AI%2FML+Enthusiast;Cloud+%26+DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Docker;" alt="Typing SVG">
 </div>
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #7F7F7F, #C0C0C0, #7F7F7F);">
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Banner -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
