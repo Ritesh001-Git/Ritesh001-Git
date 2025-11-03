@@ -159,13 +159,17 @@
   <tr>
       <td>
 <a href="https://github.com/Ritesh001-Git/portfolio">
-  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">Portfolio</span>
+  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">Sleepbot</span>
 </a>
       </td>
-      <td style="color:#A8A8A8;">Deployment or infrastructure-related introduction here.</td>
+      <td style="color:#A8A8A8;">SleepBot is a compact, full-stack AI sleep coach that crafts personalized plans and routines. It offers dynamic guidance and AI-generated programs tailored to your goals and lifestyle.</td>
       <td>
-        <img src="https://img.shields.io/badge/Docker-2D2D2D?style=for-the-badge&logo=docker&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/Nginx-2D2D2D?style=for-the-badge&logo=nginx&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/React-2D2D2D?style=for-the-badge&logo=react&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/TypeScript-2D2D2D?style=for-the-badge&logo=typescript&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/Node.js-2D2D2D?style=for-the-badge&logo=node.js&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/Convex-2D2D2D?style=for-the-badge&logo=convex&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/Gemini_AI-2D2D2D?style=for-the-badge&logo=google&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/Vapi_AI-2D2D2D?style=for-the-badge&logo=soundcloud&logoColor=silver"/>
       </td>
     </tr>
 
