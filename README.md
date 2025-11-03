@@ -17,7 +17,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Summary -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Ritesh001-Git/Ritesh001-Git/blob/main/summary.gif?raw=true" width="500" height="320" />
 
 ## 👋 Hi, I’m Ritesh Kumar Swain, 
 I am a passionate CSE student at Lovely Professional University.
