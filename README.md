@@ -283,3 +283,4 @@ A lightweight, offline Java + HTML/JS application to detect both plagiarism and 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+
