@@ -85,11 +85,11 @@
 <p align="center">
   <!-- LeetCode -->
 <a href="https://leetcode.com/ritesh2005/">
-  <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-2D2D2D?style=for-the-badge&logo=leetcode&logoColor=silver"/>
 </a>
 <!-- GeeksforGeeks -->
 <a href="https://www.geeksforgeeks.org/user/riteshsw9cvk/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" alt="GeeksforGeeks" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2D2D2D?style=for-the-badge&logo=geeksforgeeks&logoColor=silver"/>
 </a>
 <!-- HackerRank -->
 <a href="">
