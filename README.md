@@ -19,8 +19,8 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-👋 Hi, I’m Ritesh Kumar Swain, a passionate CSE student at Lovely Professional University.
-I love exploring new technologies and constantly improving myself.
+## 👋 Hi, I’m Ritesh Kumar Swain, 
+I am a passionate CSE student at Lovely Professional University.
 
 ☁️ Currently learning Cloud & DevOps.
 Focused on automation, CI/CD, and cloud infrastructure.
@@ -29,10 +29,9 @@ Focused on automation, CI/CD, and cloud infrastructure.
 Excited about building intelligent and real-world impactful systems.
 
 🧠 Practicing DSA and competitive programming.
-Sharpening problem-solving skills on LeetCode and CodeChef.
+Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 
 🚀 Motivated to innovate, build projects, and grow every day.
-Always ready for new challenges and opportunities.
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #7F7F7F, #C0C0C0, #7F7F7F);">
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
