@@ -6,6 +6,9 @@
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #7F7F7F, #C0C0C0, #7F7F7F);">
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Social Links -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <div align="center">
 <a href="https://www.linkedin.com/in/ritesh-kumar-swain/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Ritesh Swain" /></a>
 <a href="https://riteshswain.netlify.app/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="Portfolio of Ritesh Swain" /></a>
