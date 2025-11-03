@@ -141,7 +141,7 @@
     <!-- Project 1 -->
     <tr>
       <td>
-        <a href="https://github.com/Ritesh001-Git/portfolio">
+        <a href="https://github.com/Ritesh001-Git/portfolio" style="text-decoration:none; color:inherit;">
           <b style="color:#E0E0E0;">Portfolio</b>
         </a>
       </td>
