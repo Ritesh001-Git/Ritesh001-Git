@@ -93,11 +93,11 @@
 </a>
 <!-- HackerRank -->
 <a href="">
-  <img src="https://img.shields.io/badge/HackerRank-d5d5d5?style=for-the-badge&logo=hackerrank&logoColor=0A0209" alt="HackerRank" />
+  <img src="https://img.shields.io/badge/HackerRank-2D2D2D?style=for-the-badge&logo=hackerrank&logoColor=silver"/>
 </a>
 <!-- CodeChef -->
 <a href="">
-  <img src="https://img.shields.io/badge/CodeChef-d5d5d5?style=for-the-badge&logo=codechef&logoColor=0A0209" alt="CodeChef" />
+  <img src="https://img.shields.io/badge/CodeChef-2D2D2D?style=for-the-badge&logo=codechef&logoColor=silver"/>
 </a>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
