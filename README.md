@@ -19,7 +19,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <img align="right" alt="GIF" src="https://github.com/Ritesh001-Git/Ritesh001-Git/blob/main/summary.gif?raw=true" width="500" height="320" />
 
-## 👋 Hi, I’m Ritesh Kumar Swain,
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px" /> Hi, I’m Ritesh Kumar Swain,
 
 I am a passionate CSE student at Lovely Professional University.
 
