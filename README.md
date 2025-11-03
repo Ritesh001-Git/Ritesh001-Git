@@ -141,15 +141,16 @@
     <!-- Project 1 -->
     <tr>
       <td>
-        <a href="PROJECT_1_LINK">
-          <b style="color:#E0E0E0;">Project One</b>
+        <a href="https://github.com/Ritesh001-Git/portfolio">
+          <b style="color:#E0E0E0;">Portfolio</b>
         </a>
       </td>
-      <td style="color:#A8A8A8;">A short one-line summary about what problem this solves.</td>
+      <td style="color:#A8A8A8;">Personal portfolio and contact information for Ritesh Kumar Swain, including social media profiles and professional details.</td>
       <td>
-        <img src="https://img.shields.io/badge/AWS-2D2D2D?style=for-the-badge&logo=amazonwebservices&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/Terraform-2D2D2D?style=for-the-badge&logo=terraform&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/Linux-2D2D2D?style=for-the-badge&logo=linux&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/HTML5-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=javascript&logoColor=0A0209" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Netlify-d5d5d5?style=for-the-badge&logo=netlify&logoColor=0A0209" alt="Netlify" />
       </td>
     </tr>
 
