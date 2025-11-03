@@ -129,6 +129,8 @@
 </a>
 </p>
 
+<hr style="border: 0; height: 4px; background: linear-gradient(90deg, #B8B8B8, #E0E0E0, #B8B8B8); border-radius: 2px;">
+
 <table align="center">
   <thead>
     <tr>
