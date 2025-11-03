@@ -200,10 +200,10 @@
       </td>
       <td style="color:#A8A8A8;">Collaborative DSA study space. Share, discuss, and improve solutions. Clear coding standards, documentation, and tests to help everyone learn and contribute.</td>
       <td>
-        <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java" />
-        <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" />
-        <img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" alt="GeeksforGeeks" />
-<img src="https://img.shields.io/badge/VS%20Code-d5d5d5?style=for-the-badge&logo=visualstudiocode&logoColor=0A0209" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Java-2D2D2D?style=for-the-badge&logo=openjdk&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/LeetCode-2D2D2D?style=for-the-badge&logo=leetcode&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/GeeksforGeeks-2D2D2D?style=for-the-badge&logo=geeksforgeeks&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/VS_Code-2D2D2D?style=for-the-badge&logo=visualstudiocode&logoColor=silver"/>
       </td>
     </tr>
   </body>
