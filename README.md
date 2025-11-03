@@ -180,6 +180,20 @@
         <img src="https://img.shields.io/badge/Grafana-2D2D2D?style=for-the-badge&logo=grafana&logoColor=silver"/>
       </td>
     </tr>
+
+  <!-- Project 4 -->
+  <tr>
+      <td>
+        <a href="PROJECT_4_LINK">
+          <b style="color:#E0E0E0;">Project Four</b>
+        </a>
+      </td>
+      <td style="color:#A8A8A8;">Short description of CI/CD automation or DevOps feature.</td>
+      <td>
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2D2D2D?style=for-the-badge&logo=githubactions&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/CI%2FCD-2D2D2D?style=for-the-badge&logo=azurepipelines&logoColor=silver"/>
+      </td>
+    </tr>
   </body>
 </table>
 
