@@ -166,6 +166,20 @@
         <img src="https://img.shields.io/badge/Nginx-2D2D2D?style=for-the-badge&logo=nginx&logoColor=silver"/>
       </td>
     </tr>
+
+  <!-- Project 3 -->
+  <tr>
+      <td>
+        <a href="PROJECT_3_LINK">
+          <b style="color:#E0E0E0;">Project Three</b>
+        </a>
+      </td>
+      <td style="color:#A8A8A8;">Explain performance/monitoring or cloud usage.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Kubernetes-2D2D2D?style=for-the-badge&logo=kubernetes&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/Grafana-2D2D2D?style=for-the-badge&logo=grafana&logoColor=silver"/>
+      </td>
+    </tr>
   </body>
 </table>
 
