@@ -177,13 +177,17 @@
   <tr>
       <td>
 <a href="https://github.com/Ritesh001-Git/portfolio">
-  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">Portfolio</span>
+  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">Serverless Image Resizer</span>
 </a>
       </td>
-      <td style="color:#A8A8A8;">Explain performance/monitoring or cloud usage.</td>
+      <td style="color:#A8A8A8;">This project simulates image upload and resizing using AWS services. A Lambda function pulls images from one S3 bucket, resizes them, and saves the results to another S3 bucket. It also logs a success message to CloudWatch Logs to emulate a complete workflow.</td>
       <td>
-        <img src="https://img.shields.io/badge/Kubernetes-2D2D2D?style=for-the-badge&logo=kubernetes&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/Grafana-2D2D2D?style=for-the-badge&logo=grafana&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/Amazon%20S3-d5d5d5?style=for-the-badge&logo=amazonaws&logoColor=0A0209" alt="Amazon S3" />
+        <img src="https://img.shields.io/badge/AWS%20Lambda-d5d5d5?style=for-the-badge&logo=awslambda&logoColor=0A0209" alt="AWS Lambda" />
+        <img src="https://img.shields.io/badge/Python-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python" />
+        <img src="https://img.shields.io/badge/HTML5-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=javascript&logoColor=0A0209" alt="JavaScript" />
       </td>
     </tr>
 
