@@ -152,6 +152,20 @@
         <img src="https://img.shields.io/badge/Linux-2D2D2D?style=for-the-badge&logo=linux&logoColor=silver"/>
       </td>
     </tr>
+
+  <!-- Project 2 -->
+  <tr>
+      <td>
+        <a href="PROJECT_2_LINK">
+          <b style="color:#E0E0E0;">Project Two</b>
+        </a>
+      </td>
+      <td style="color:#A8A8A8;">Deployment or infrastructure-related introduction here.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2D2D2D?style=for-the-badge&logo=docker&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/Nginx-2D2D2D?style=for-the-badge&logo=nginx&logoColor=silver"/>
+      </td>
+    </tr>
   </body>
 </table>
 
