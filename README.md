@@ -106,6 +106,9 @@
 <img src="https://raw.githubusercontent.com/Ritesh001-Git/Ritesh001-Git/output/snake.svg" alt="Snake animation" />
 </p>
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Scrolling SVG Animation -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=CCCCCC&size=28&center=true&vCenter=true&height=60&width=1000&lines=✨+Thank+You+For+Visiting+My+Profile+—+See+You+Next+Time+✨">
 </p>
