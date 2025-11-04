@@ -54,8 +54,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <!--- -- GitHub Stats -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Ritesh001-Git)
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Ritesh001-Git&type=contributions)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=Ritesh001-Git&show_icons=true&theme=radical&cache_seconds=0)  
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #7F7F7F, #C0C0C0, #7F7F7F);">
 
