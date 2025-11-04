@@ -54,8 +54,8 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <!--- -- GitHub Stats -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Ritesh Kumar Swain GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritesh001-Git&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Ritesh Kumar Swain GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh001-Git&theme=icegray&border_radius=8) |
-| -- | -- |
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Ritesh001-Git)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Ritesh001-Git&type=contributions)
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #7F7F7F, #C0C0C0, #7F7F7F);">
 
