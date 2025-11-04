@@ -54,8 +54,8 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <!--- -- GitHub Stats -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ritesh001-Git&show_icons=true&hide_border=true&border_radius=12&bg_color=6b6b6b&title_color=ffffff&text_color=cfcfcf&icon_color=ffffff)
-![Streak](https://git-hub-streak-stats.vercel.app/?user=Ritesh001-Git&hide_border=true&border_radius=12&background=6b6b6b&card_width=495&card_height=195&ring=ffffff&currStreakNum=ffffff&sideNums=cfcfcf&sideLabels=cfcfcf&dates=cfcfcf)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ritesh001-Git&show_icons=true&hide_border=true&border_radius=8&bg_color=45,c0c0c0,eeeeee,f8f8f8&title_color=000000&text_color=333333&icon_color=000000)
+![Streak](https://git-hub-streak-stats.vercel.app/?user=Ritesh001-Git&hide_border=true&border_radius=8&background=45,c0c0c0,eeeeee,f8f8f8&ring=000000&currStreakNum=000000&sideNums=333333&sideLabels=333333&dates=333333)
 
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #7F7F7F, #C0C0C0, #7F7F7F);">
