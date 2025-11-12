@@ -14,8 +14,9 @@
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #7F7F7F, #C0C0C0, #7F7F7F);">
 
-![Ritesh Graph Animation](https://raw.githubusercontent.com/Ritesh001-Git/Ritesh001-Git/output/ritesh.svg)
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ritesh001-Git/Ritesh001-Git/output/ritesh.svg" alt="Ritesh animation" />
+</p>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Summary -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
