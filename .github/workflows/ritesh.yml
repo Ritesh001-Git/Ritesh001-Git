@@ -18,38 +18,83 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Ritesh grid SVG
+      - name: Generate RITESH contribution-style animation
         run: |
           mkdir -p dist
           cat > dist/ritesh.svg << 'EOF'
-          <svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
-            <rect width="400" height="120" fill="#0d1117"/>
-            <g transform="translate(20,20)">
-              <!-- Base grid (light grey cells) -->
+          <svg width="720" height="140" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100%" height="100%" fill="#0d1117"/>
+            <g transform="translate(50,30)" font-family="monospace">
+              <!-- Background grid -->
               <g fill="#30363d">
-                <!-- 20x7 grid -->
-                <!-- You can add or reduce cells as needed -->
-                <!-- Background -->
-                <!-- vertical 0–19, horizontal 0–6 -->
-                <!-- Generate manually for readability -->
-                <!-- (We’ll just show a small section here) -->
-                <!-- row 0 -->
-                <rect x="0" y="0" width="10" height="10" rx="2" ry="2"/>
-                <rect x="15" y="0" width="10" height="10" rx="2" ry="2"/>
-                <rect x="30" y="0" width="10" height="10" rx="2" ry="2"/>
-                <rect x="45" y="0" width="10" height="10" rx="2" ry="2"/>
-                <rect x="60" y="0" width="10" height="10" rx="2" ry="2"/>
-                <!-- ...repeat for full grid if desired -->
+                <!-- Create a 50x7 grid -->
+                <!-- Light grey background cells -->
+                <!-- Only a visual base -->
+                <!-- Each cell 12x12 with 3px spacing -->
+                <!-- -->
+                <!-- background -->
+                <!-- not animated -->
+                <!-- -->
+                <!-- horizontal loop -->
+                <!-- We'll generate a sample grid visually centered -->
+                <!-- Vertical offset y=0..6 -->
+                <!-- Horizontal offset x=0..49 -->
+                <!-- simple pattern manually drawn in rows -->
+                <!-- Instead of listing all, we’ll approximate spacing for the background -->
+                <rect x="0" y="0" width="600" height="84" rx="6" ry="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
               </g>
 
-              <!-- Dark grey “R” shape -->
-              <g fill="#b0b0b0">
-                <rect x="0" y="0" width="10" height="70"/>
-                <rect x="15" y="0" width="20" height="10"/>
-                <rect x="15" y="30" width="20" height="10"/>
-                <rect x="35" y="15" width="10" height="15"/>
-                <rect x="35" y="45" width="10" height="25"/>
-                <animate attributeName="opacity" values="0;1;0.5;1" dur="4s" repeatCount="indefinite"/>
+              <!-- Letters (Dark Metallic Grey #8a8a8a) -->
+              <g fill="#8a8a8a">
+                <!-- R -->
+                <g opacity="0">
+                  <rect x="0" y="0" width="10" height="70"/>
+                  <rect x="12" y="0" width="20" height="10"/>
+                  <rect x="12" y="30" width="20" height="10"/>
+                  <rect x="32" y="15" width="10" height="15"/>
+                  <rect x="32" y="45" width="10" height="25"/>
+                  <animate attributeName="opacity" values="0;1;1;0" dur="6s" begin="0s" repeatCount="indefinite"/>
+                </g>
+
+                <!-- I -->
+                <g opacity="0">
+                  <rect x="60" y="0" width="10" height="70"/>
+                  <animate attributeName="opacity" values="0;1;1;0" dur="6s" begin="1s" repeatCount="indefinite"/>
+                </g>
+
+                <!-- T -->
+                <g opacity="0">
+                  <rect x="80" y="0" width="40" height="10"/>
+                  <rect x="98" y="10" width="10" height="60"/>
+                  <animate attributeName="opacity" values="0;1;1;0" dur="6s" begin="2s" repeatCount="indefinite"/>
+                </g>
+
+                <!-- E -->
+                <g opacity="0">
+                  <rect x="130" y="0" width="10" height="70"/>
+                  <rect x="140" y="0" width="25" height="10"/>
+                  <rect x="140" y="30" width="20" height="10"/>
+                  <rect x="140" y="60" width="25" height="10"/>
+                  <animate attributeName="opacity" values="0;1;1;0" dur="6s" begin="3s" repeatCount="indefinite"/>
+                </g>
+
+                <!-- S -->
+                <g opacity="0">
+                  <rect x="180" y="0" width="30" height="10"/>
+                  <rect x="180" y="0" width="10" height="30"/>
+                  <rect x="180" y="30" width="30" height="10"/>
+                  <rect x="200" y="30" width="10" height="30"/>
+                  <rect x="180" y="60" width="30" height="10"/>
+                  <animate attributeName="opacity" values="0;1;1;0" dur="6s" begin="4s" repeatCount="indefinite"/>
+                </g>
+
+                <!-- H -->
+                <g opacity="0">
+                  <rect x="220" y="0" width="10" height="70"/>
+                  <rect x="240" y="0" width="10" height="70"/>
+                  <rect x="220" y="30" width="30" height="10"/>
+                  <animate attributeName="opacity" values="0;1;1;0" dur="6s" begin="5s" repeatCount="indefinite"/>
+                </g>
               </g>
             </g>
           </svg>
