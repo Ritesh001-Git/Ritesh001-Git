@@ -1,0 +1,67 @@
+name: Generate Ritesh Contribution Animation
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate "Ritesh" grid animation
+        run: |
+          mkdir -p dist
+          cat > dist/ritesh.svg << 'EOF'
+          <svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+            <rect width="600" height="120" fill="#0d1117"/>
+            <g transform="translate(20,20)">
+              <!-- Draw background grid -->
+              <g fill="#2f2f2f">
+                <!-- 20x7 grid -->
+                <!-- Background cells -->
+                <!-- You can adjust spacing and count as needed -->
+                <!-- Auto-generated pattern -->
+                <!-- light grey -->
+                <!-- Grid background -->
+                ${Array.from({length: 20}).map((_, x) =>
+                  Array.from({length: 7}).map((_, y) =>
+                    `<rect x="${x*15}" y="${y*15}" width="10" height="10" rx="2" ry="2" fill="#2f2f2f" />`
+                  ).join('\n')
+                ).join('\n')}
+              </g>
+
+              <!-- RITESH pattern -->
+              <g fill="#b0b0b0">
+                <!-- R -->
+                <rect x="0" y="0" width="10" height="70"/>
+                <rect x="15" y="0" width="20" height="10"/>
+                <rect x="15" y="30" width="20" height="10"/>
+                <rect x="35" y="15" width="10" height="15"/>
+                <rect x="35" y="45" width="10" height="25"/>
+                <!-- Add letters manually or via a script -->
+              </g>
+
+              <!-- Simple opacity animation -->
+              <animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite" />
+            </g>
+          </svg>
+          EOF
+
+      - name: Push generated animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
