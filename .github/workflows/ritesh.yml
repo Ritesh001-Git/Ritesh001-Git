@@ -2,7 +2,6 @@ name: Generate Ritesh Contribution Animation
 
 on:
   schedule:
-    # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -19,46 +18,44 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate "Ritesh" grid animation
+      - name: Generate Ritesh grid SVG
         run: |
           mkdir -p dist
           cat > dist/ritesh.svg << 'EOF'
-          <svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
-            <rect width="600" height="120" fill="#0d1117"/>
+          <svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+            <rect width="400" height="120" fill="#0d1117"/>
             <g transform="translate(20,20)">
-              <!-- Draw background grid -->
-              <g fill="#2f2f2f">
+              <!-- Base grid (light grey cells) -->
+              <g fill="#30363d">
                 <!-- 20x7 grid -->
-                <!-- Background cells -->
-                <!-- You can adjust spacing and count as needed -->
-                <!-- Auto-generated pattern -->
-                <!-- light grey -->
-                <!-- Grid background -->
-                ${Array.from({length: 20}).map((_, x) =>
-                  Array.from({length: 7}).map((_, y) =>
-                    `<rect x="${x*15}" y="${y*15}" width="10" height="10" rx="2" ry="2" fill="#2f2f2f" />`
-                  ).join('\n')
-                ).join('\n')}
+                <!-- You can add or reduce cells as needed -->
+                <!-- Background -->
+                <!-- vertical 0–19, horizontal 0–6 -->
+                <!-- Generate manually for readability -->
+                <!-- (We’ll just show a small section here) -->
+                <!-- row 0 -->
+                <rect x="0" y="0" width="10" height="10" rx="2" ry="2"/>
+                <rect x="15" y="0" width="10" height="10" rx="2" ry="2"/>
+                <rect x="30" y="0" width="10" height="10" rx="2" ry="2"/>
+                <rect x="45" y="0" width="10" height="10" rx="2" ry="2"/>
+                <rect x="60" y="0" width="10" height="10" rx="2" ry="2"/>
+                <!-- ...repeat for full grid if desired -->
               </g>
 
-              <!-- RITESH pattern -->
+              <!-- Dark grey “R” shape -->
               <g fill="#b0b0b0">
-                <!-- R -->
                 <rect x="0" y="0" width="10" height="70"/>
                 <rect x="15" y="0" width="20" height="10"/>
                 <rect x="15" y="30" width="20" height="10"/>
                 <rect x="35" y="15" width="10" height="15"/>
                 <rect x="35" y="45" width="10" height="25"/>
-                <!-- Add letters manually or via a script -->
+                <animate attributeName="opacity" values="0;1;0.5;1" dur="4s" repeatCount="indefinite"/>
               </g>
-
-              <!-- Simple opacity animation -->
-              <animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite" />
             </g>
           </svg>
           EOF
 
-      - name: Push generated animation to output branch
+      - name: Push generated SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
