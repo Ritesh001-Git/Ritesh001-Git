@@ -1,109 +1,16 @@
-name: Generate Ritesh Contribution Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate RITESH contribution-style animation
-        run: |
-          mkdir -p dist
-          cat > dist/ritesh.svg << 'EOF'
-          <svg width="720" height="140" xmlns="http://www.w3.org/2000/svg">
-            <rect width="100%" height="100%" fill="#0d1117"/>
-            <g transform="translate(50,30)" font-family="monospace">
-              <!-- Background grid -->
-              <g fill="#30363d">
-                <!-- Create a 50x7 grid -->
-                <!-- Light grey background cells -->
-                <!-- Only a visual base -->
-                <!-- Each cell 12x12 with 3px spacing -->
-                <!-- -->
-                <!-- background -->
-                <!-- not animated -->
-                <!-- -->
-                <!-- horizontal loop -->
-                <!-- We'll generate a sample grid visually centered -->
-                <!-- Vertical offset y=0..6 -->
-                <!-- Horizontal offset x=0..49 -->
-                <!-- simple pattern manually drawn in rows -->
-                <!-- Instead of listing all, we’ll approximate spacing for the background -->
-                <rect x="0" y="0" width="600" height="84" rx="6" ry="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-              </g>
-
-              <!-- Letters (Dark Metallic Grey #8a8a8a) -->
-              <g fill="#8a8a8a">
-                <!-- R -->
-                <g opacity="0">
-                  <rect x="0" y="0" width="10" height="70"/>
-                  <rect x="12" y="0" width="20" height="10"/>
-                  <rect x="12" y="30" width="20" height="10"/>
-                  <rect x="32" y="15" width="10" height="15"/>
-                  <rect x="32" y="45" width="10" height="25"/>
-                  <animate attributeName="opacity" values="0;1;1;0" dur="6s" begin="0s" repeatCount="indefinite"/>
-                </g>
-
-                <!-- I -->
-                <g opacity="0">
-                  <rect x="60" y="0" width="10" height="70"/>
-                  <animate attributeName="opacity" values="0;1;1;0" dur="6s" begin="1s" repeatCount="indefinite"/>
-                </g>
-
-                <!-- T -->
-                <g opacity="0">
-                  <rect x="80" y="0" width="40" height="10"/>
-                  <rect x="98" y="10" width="10" height="60"/>
-                  <animate attributeName="opacity" values="0;1;1;0" dur="6s" begin="2s" repeatCount="indefinite"/>
-                </g>
-
-                <!-- E -->
-                <g opacity="0">
-                  <rect x="130" y="0" width="10" height="70"/>
-                  <rect x="140" y="0" width="25" height="10"/>
-                  <rect x="140" y="30" width="20" height="10"/>
-                  <rect x="140" y="60" width="25" height="10"/>
-                  <animate attributeName="opacity" values="0;1;1;0" dur="6s" begin="3s" repeatCount="indefinite"/>
-                </g>
-
-                <!-- S -->
-                <g opacity="0">
-                  <rect x="180" y="0" width="30" height="10"/>
-                  <rect x="180" y="0" width="10" height="30"/>
-                  <rect x="180" y="30" width="30" height="10"/>
-                  <rect x="200" y="30" width="10" height="30"/>
-                  <rect x="180" y="60" width="30" height="10"/>
-                  <animate attributeName="opacity" values="0;1;1;0" dur="6s" begin="4s" repeatCount="indefinite"/>
-                </g>
-
-                <!-- H -->
-                <g opacity="0">
-                  <rect x="220" y="0" width="10" height="70"/>
-                  <rect x="240" y="0" width="10" height="70"/>
-                  <rect x="220" y="30" width="30" height="10"/>
-                  <animate attributeName="opacity" values="0;1;1;0" dur="6s" begin="5s" repeatCount="indefinite"/>
-                </g>
-              </g>
-            </g>
-          </svg>
-          EOF
-
-      - name: Push generated SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ name: gitartwork from a contribution graph
+ on: 
+   push:
+ jobs:
+   build:
+     name: Make gitartwork SVG
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v3
+       - uses: Ritesh001-Git/gitartwork@v1
+         with:
+            # Use this username's contribution graph  
+            user_name: Ritesh001-Git
+            # Text on contribution graph 
+            text: RITESH
+       - uses: jasineri/simple-push-action@v1
