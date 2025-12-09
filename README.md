@@ -192,7 +192,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   <!-- Project 2 -->
   <tr>
       <td>
-<a href="https://github.com/Ritesh001-Git/portfolio">
+<a href="https://github.com/Ritesh001-Git/Sleep-Bot">
   <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">Sleepbot</span>
 </a>
       </td>
