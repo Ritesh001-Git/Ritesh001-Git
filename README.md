@@ -56,7 +56,6 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- GitHub Stats -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
 <p align="center">
   <img src="https://github-readme-stats.zcy.dev/api?username=Ritesh001-Git&show_icons=true&hide_border=true&border_radius=8&bg_color=45,c0c0c0,eeeeee,f8f8f8&title_color=000000&text_color=333333&icon_color=000000&card_width=300" />
   <!-- <img src="https://git-hub-streak-stats.vercel.app/?user=Ritesh001-Git&hide_border=true&border_radius=8&background=45,c0c0c0,eeeeee,f8f8f8&ring=000000&currStreakNum=000000&sideNums=333333&sideLabels=333333&dates=333333&&card_width=400" />
