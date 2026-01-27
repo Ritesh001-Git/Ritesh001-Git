@@ -119,26 +119,25 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <p align="center">
   <!-- LeetCode -->
 <a href="https://leetcode.com/ritesh2005/">
-  <img src="https://img.shields.io/badge/LeetCode-2D2D2D?style=for-the-badge&logo=leetcode&logoColor=silver"/>
-</a>
-<!-- GeeksforGeeks -->
-<a href="https://www.geeksforgeeks.org/user/riteshsw9cvk/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2D2D2D?style=for-the-badge&logo=geeksforgeeks&logoColor=silver"/>
-</a>
-<!-- HackerRank -->
-<a href="">
-  <img src="https://img.shields.io/badge/HackerRank-2D2D2D?style=for-the-badge&logo=hackerrank&logoColor=silver"/>
-</a>
-<!-- CodeChef -->
-<a href="">
-  <img src="https://img.shields.io/badge/CodeChef-2D2D2D?style=for-the-badge&logo=codechef&logoColor=silver"/>
+  <img src="https://img.shields.io/badge/LeetCode-D5D5D5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" />
 </a>
 
+<a href="https://www.geeksforgeeks.org/user/riteshsw9cvk/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-D5D5D5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" alt="GeeksforGeeks" />
+</a>
+
+<a href="INSERT_HACKERRANK_LINK_HERE">
+  <img src="https://img.shields.io/badge/HackerRank-D5D5D5?style=for-the-badge&logo=hackerrank&logoColor=0A0209" alt="HackerRank" />
+</a>
+
+<a href="INSERT_CODECHEF_LINK_HERE">
+  <img src="https://img.shields.io/badge/CodeChef-D5D5D5?style=for-the-badge&logo=codechef&logoColor=0A0209" alt="CodeChef" />
+</a>
+</p>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- IDE & Environment -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- <h3 align="center">IDE & Environment</h3> -->
-</p>
 <p align="center">
 <!-- VS Code -->
 <a href="https://code.visualstudio.com/">
