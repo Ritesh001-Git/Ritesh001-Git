@@ -202,12 +202,12 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
       </td>
       <td style="color:#A8A8A8;">SleepBot is a compact, full-stack AI sleep coach that crafts personalized plans and routines. It offers dynamic guidance and AI-generated programs tailored to your goals and lifestyle.</td>
       <td>
-        <img src="https://img.shields.io/badge/React-2D2D2D?style=for-the-badge&logo=react&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/TypeScript-2D2D2D?style=for-the-badge&logo=typescript&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/Node.js-2D2D2D?style=for-the-badge&logo=node.js&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/Convex-2D2D2D?style=for-the-badge&logo=convex&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/Gemini_AI-2D2D2D?style=for-the-badge&logo=google&logoColor=silver"/>
-        <img src="https://img.shields.io/badge/Vapi_AI-2D2D2D?style=for-the-badge&logo=soundcloud&logoColor=silver"/>
+        <img src="https://img.shields.io/badge/React-D5D5D5?style=for-the-badge&logo=react&logoColor=0A0209"/>
+        <img src="https://img.shields.io/badge/TypeScript-D5D5D5?style=for-the-badge&logo=typescript&logoColor=0A0209"/>
+        <img src="https://img.shields.io/badge/Node.js-D5D5D5?style=for-the-badge&logo=node.js&logoColor=0A0209"/>
+        <img src="https://img.shields.io/badge/Convex-D5D5D5?style=for-the-badge&logo=convex&logoColor=0A0209"/>
+        <img src="https://img.shields.io/badge/Gemini_AI-D5D5D5?style=for-the-badge&logo=googlegemini&logoColor=0A0209"/>
+        <img src="https://img.shields.io/badge/Vapi_AI-D5D5D5?style=for-the-badge&logo=vapi&logoColor=0A0209"/>
       </td>
     </tr>
 
