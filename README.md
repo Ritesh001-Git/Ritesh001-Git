@@ -87,6 +87,12 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <!-- <h3 align="center">Programming</h3> -->
 <p align="center">
   <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
+  
   <img src="https://img.shields.io/badge/C-2D2D2D?style=for-the-badge&logo=c&logoColor=silver"/>
   <img src="https://img.shields.io/badge/C++-2D2D2D?style=for-the-badge&logo=cplusplus&logoColor=silver"/>
   <img src="https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=silver"/>
