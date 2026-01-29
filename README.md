@@ -315,7 +315,7 @@ A lightweight, offline Java + HTML/JS application to detect both plagiarism and 
 <!--- -- BreakLine -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=F8F8F8,EEEEEE,C0C0C0,EEEEEE,F8F8F8&height=100&section=footer" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=F8F8F8,EEEEEE,C0C0C0,EEEEEE,F8F8F8&height=100&section=footer" width="100%"/> -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
