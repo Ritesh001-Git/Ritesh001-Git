@@ -80,6 +80,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   <img src="https://img.shields.io/badge/Kubernetes-d5d5d5?style=for-the-badge&logo=kubernetes&logoColor=0A0209" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Jira-d5d5d5?style=for-the-badge&logo=jira&logoColor=0A0209" alt="Jira" />
   <img src="https://img.shields.io/badge/AWS-d5d5d5?style=for-the-badge&logo=amazon-aws&logoColor=0A0209" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-d5d5d5?style=for-the-badge&logo=terraform&logoColor=0A0209" alt="Terraform" />
 </p>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -88,11 +89,11 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <!-- <h3 align="center">Programming</h3> -->
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
-  <img src="https://img.shields.io/badge/C++-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
-  <img src="https://img.shields.io/badge/Python-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
-  <img src="https://img.shields.io/badge/Dart-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
-  <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
+  <img src="https://img.shields.io/badge/C-d5d5d5?style=for-the-badge&logo=c&logoColor=0A0209" alt="C" />
+  <img src="https://img.shields.io/badge/C++-d5d5d5?style=for-the-badge&logo=cplusplus&logoColor=0A0209" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java" />
+  <img src="https://img.shields.io/badge/Shell-d5d5d5?style=for-the-badge&logo=gnu-bash&logoColor=0A0209" alt="Shell" />
   
   <!--<img src="https://img.shields.io/badge/C-2D2D2D?style=for-the-badge&logo=c&logoColor=silver"/>
   <img src="https://img.shields.io/badge/C++-2D2D2D?style=for-the-badge&logo=cplusplus&logoColor=silver"/>
