@@ -79,6 +79,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   <img src="https://img.shields.io/badge/Docker-d5d5d5?style=for-the-badge&logo=docker&logoColor=0A0209" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-d5d5d5?style=for-the-badge&logo=kubernetes&logoColor=0A0209" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Jira-d5d5d5?style=for-the-badge&logo=jira&logoColor=0A0209" alt="Jira" />
+  <img src="https://img.shields.io/badge/AWS-d5d5d5?style=for-the-badge&logo=amazon-aws&logoColor=0A0209" alt="AWS" />
 </p>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
