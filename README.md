@@ -226,24 +226,24 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
         <img src="https://img.shields.io/badge/AWS%20Lambda-d5d5d5?style=for-the-badge&logo=awslambda&logoColor=0A0209" alt="AWS Lambda" />
         <img src="https://img.shields.io/badge/Python-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python" />
         <img src="https://img.shields.io/badge/HTML5-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=javascript&logoColor=0A0209" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=javascript&logoColor=0A0209" alt="JavaScript" />
       </td>
     </tr>
 
   <!-- Project 4 -->
   <tr>
       <td>
-        <a href="https://github.com/Ritesh001-Git/DSA">
-  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">DSA</span>
+        <a href="https://github.com/Ritesh001-Git/Mini-PaaS-Platform">
+  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">Mini PaaS Platform</span>
 </a>
       </td>
-      <td style="color:#A8A8A8;">Collaborative DSA study space. Share, discuss, and improve solutions. Clear coding standards, documentation, and tests to help everyone learn and contribute.</td>
+      <td style="color:#A8A8A8;">Developed a mini-PaaS platform using a Python backend and SQL database that automatically detects Docker file in GitHub repositories and builds containerized applications using Docker and Docker Compose.Orchestrated multi-service architecture using Docker Compose, Nginx reverse proxy (port 80/8000), and SQL database for scalable and modular deployment across 3+ interconnected services.</td>
       <td>
-        <img src="https://img.shields.io/badge/Java-D5D5D5?style=for-the-badge&logo=openjdk&logoColor=0A0209"/>
-        <img src="https://img.shields.io/badge/LeetCode-D5D5D5?style=for-the-badge&logo=leetcode&logoColor=0A0209"/>
-        <img src="https://img.shields.io/badge/GeeksforGeeks-D5D5D5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209"/>
-        <img src="https://img.shields.io/badge/VS_Code-D5D5D5?style=for-the-badge&logo=visualstudiocode&logoColor=0A0209"/>
+        <img src="https://img.shields.io/badge/Python-D5D5D5?style=for-the-badge&logo=puthon&logoColor=0A0209"/>
+        <img src="https://img.shields.io/badge/MySql-D5D5D5?style=for-the-badge&logo=mysql&logoColor=0A0209"/>
+        <img src="https://img.shields.io/badge/Ngnix-D5D5D5?style=for-the-badge&logo=ngnix&logoColor=0A0209"/>
+        <img src="https://img.shields.io/badge/Docker-D5D5D5?style=for-the-badge&logo=docker&logoColor=0A0209"/>
       </td>
     </tr>
 
