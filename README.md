@@ -329,6 +329,19 @@ Collection of Bash scripting examples used to automate system administration and
 </td>
 </tr>
 
+<tr>
+<td>
+<a href="https://github.com/Ritesh001-Git/DSA">
+<span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+Data Structure & Algorithms (DSA)
+</span>
+</a>
+</td>
+<td style="color:#A8A8A8;">
+Collaborative DSA study space. Share, discuss, and improve solutions. Clear coding standards, documentation, and tests to help everyone learn and contribute.
+</td>
+</tr>
+
   </tbody>
 </table>
 
