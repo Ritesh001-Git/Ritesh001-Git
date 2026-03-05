@@ -318,7 +318,7 @@ Docker commands and notes covering containerization concepts, images, containers
 
 <tr>
 <td>
-<a href="https://github.com/Ritesh001-Git/Shell-Scripting">
+<a href="https://github.com/Ritesh001-Git/Shell-Script-For-Devops">
 <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
 Shell Scripting
 </span>
