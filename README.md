@@ -266,7 +266,71 @@ A lightweight, offline Java + HTML/JS application to detect both plagiarism and 
   </body>
 </table>
 
+## 📚 Learning Resources & Cheat Sheets
 
+<table align="center">
+  <thead>
+    <tr>
+      <th><span style="color:#C0C0C0; font-size:16px;">🚀 Name</span></th>
+      <th><span style="color:#C0C0C0; font-size:16px;">📌 Description</span></th>
+    </tr>
+  </thead>
+  <tbody>
+
+<tr>
+<td>
+<a href="https://github.com/Ritesh001-Git/Linux-for-DevOps">
+<span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+Linux for DevOps
+</span>
+</a>
+</td>
+<td style="color:#A8A8A8;">
+A practical collection of Linux commands and concepts useful for DevOps beginners including system commands, networking tools, permissions, process management, storage, SSH, and text processing utilities like grep, awk, and sed.
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/Ritesh001-Git/git-cheat-sheet">
+<span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+Git Cheat Sheet
+</span>
+</a>
+</td>
+<td style="color:#A8A8A8;">
+Quick reference guide for commonly used Git commands including branching, merging, rebasing, commit history, and collaboration workflows used in real-world development.
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/Ritesh001-Git/docker-cheat-sheet">
+<span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+Docker Cheat Sheet
+</span>
+</a>
+</td>
+<td style="color:#A8A8A8;">
+Docker commands and notes covering containerization concepts, images, containers, Dockerfiles, volumes, networking, and container lifecycle management for DevOps learners.
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/Ritesh001-Git/Shell-Scripting">
+<span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+Shell Scripting
+</span>
+</a>
+</td>
+<td style="color:#A8A8A8;">
+Collection of Bash scripting examples used to automate system administration and DevOps tasks such as file management, log analysis, process monitoring, and deployment automation.
+</td>
+</tr>
+
+  </tbody>
+</table>
 
 <hr style="border: 0; height: 4px; background: linear-gradient(90deg, #B8B8B8, #E0E0E0, #B8B8B8); border-radius: 2px;">
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
