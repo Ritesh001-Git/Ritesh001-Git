@@ -57,7 +57,10 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <!--- -- GitHub Stats -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <p align="center">
-  <img src="https://github-readme-stats.zcy.dev/api?username=Ritesh001-Git&show_icons=true&hide_border=true&border_radius=8&bg_color=45,c0c0c0,eeeeee,f8f8f8&title_color=000000&text_color=333333&icon_color=000000&card_width=300" />
+  <img src="https://github-readme-stats.zcy.dev/api?username=Ritesh001-Git&show_icons=true&hide_border=true&border_radius=21&bg_color=45,c0c0c0,eeeeee,f8f8f8&title_color=000000&text_color=333333&icon_color=000000&card_width=450" />
+  
+  <img src="https://streak-stats.demolab.com?user=Ritesh001-Git&show_icons=true&hide_border=true&border_radius=21&bg_color=45,c0c0c0,eeeeee,f8f8f8&title_color=000000&text_color=333333&icon_color=000000&card_width=450" />
+  
 </p>
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #7F7F7F, #C0C0C0, #7F7F7F);">
 <!-- ![GitHub Streak]() -->
@@ -65,7 +68,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <!--- -- Tech Stack -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <h2 align="center">Tech Stack</h2>
-
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh001-Git&hide_border=true&border_radius=8&background=c0c0c0,eeeeee,f8f8f8&ring=000000&fire=000000&currStreakNum=000000&sideNums=333333&sideLabels=333333&dates=333333&stroke=000000)](https://git.io/streak-stats) -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Cloud & DevOps -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
