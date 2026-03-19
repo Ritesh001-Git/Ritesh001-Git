@@ -58,7 +58,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <p align="center">
   <img src="https://github-readme-stats.zcy.dev/api?username=Ritesh001-Git&show_icons=true&hide_border=true&border_radius=21&bg_color=45,c0c0c0,eeeeee,f8f8f8&title_color=000000&text_color=333333&icon_color=000000&card_width=200" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ritesh001-Git&theme=graywhite&border_radius=21&card_width=400" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ritesh001-Git&theme=graywhite&border_radius=21&card_width=420" alt="GitHub Streak" /></a>
   
 </p>
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #7F7F7F, #C0C0C0, #7F7F7F);">
