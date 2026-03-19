@@ -130,8 +130,8 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   <img src="https://img.shields.io/badge/HackerRank-D5D5D5?style=for-the-badge&logo=hackerrank&logoColor=0A0209" alt="HackerRank" />
 </a>
 
-<a href="INSERT_CODECHEF_LINK_HERE">
-  <img src="https://img.shields.io/badge/CodeChef-D5D5D5?style=for-the-badge&logo=codechef&logoColor=0A0209" alt="CodeChef" />
+<a href="https://codeforces.com/profile/riteshswain">
+  <img src="https://img.shields.io/badge/CodeForces-D5D5D5?style=for-the-badge&logo=codeforces&logoColor=0A0209" alt="CodeForces" />
 </a>
 </p>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
