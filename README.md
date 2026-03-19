@@ -48,7 +48,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <a href="mailto:riteshswain1973@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Ritesh i.e.   riteshswain1973@gmail.com" /></a>
 <a href="https://www.instagram.com/ritesh.swain.35/"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" alt="profile of Instagram with username ritesh.swain.35" />
 </a>
-<a href="https://leetcode.com/ritesh2005/"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="profile of LeetCode with user ritesh2005" /></a>
+<a href="https://codolio.com/profile/riteshswain"><img src="https://img.shields.io/badge/Codolio-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="Coding Porofolio of Ritesh Swain" /></a>
 <a href="https://dev.to/ritesh_swain_1734d1614594" target="_blank"><img src="https://img.shields.io/badge/Dev.to-d5d5d5?style=for-the-badge&logo=dev.to&logoColor=0A0209" alt="Dev.to Profile" /></a>
 </div>
 
