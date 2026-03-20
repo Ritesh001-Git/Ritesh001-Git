@@ -100,27 +100,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   <img src="https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=silver"/>
   <img src="https://img.shields.io/badge/Dart-2D2D2D?style=for-the-badge&logo=dart&logoColor=silver"/>
   <img src="https://img.shields.io/badge/Java-2D2D2D?style=for-the-badge&logo=openjdk&logoColor=silver"/>
-</p> -->
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Web Development -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <h3 align="center">Web Development</h3> -->
-<p align="center">
-  <!-- HTML/CSS/JS + Frameworks -->
-  <img src="https://img.shields.io/badge/HTML5-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=javascript&logoColor=0A0209" alt="JavaScript" />
-
 </p>
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Operating System -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-d5d5d5?style=for-the-badge&logo=ubuntu&logoColor=0A0209" alt="Linux(Ubuntu)" />
-  <img src="https://img.shields.io/badge/macOS-d5d5d5?style=for-the-badge&logo=apple&logoColor=0A0209" alt="macOS" />
-</p>
-
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Competitive Coding -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -143,6 +123,25 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   <img src="https://img.shields.io/badge/CodeForces-D5D5D5?style=for-the-badge&logo=codeforces&logoColor=0A0209" alt="CodeForces" />
 </a>
 </p>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Web Development -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- <h3 align="center">Web Development</h3> -->
+<p align="center">
+  <!-- HTML/CSS/JS + Frameworks -->
+  <img src="https://img.shields.io/badge/HTML5-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=javascript&logoColor=0A0209" alt="JavaScript" />
+
+</p>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Operating System -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-d5d5d5?style=for-the-badge&logo=ubuntu&logoColor=0A0209" alt="Linux(Ubuntu)" />
+  <img src="https://img.shields.io/badge/macOS-d5d5d5?style=for-the-badge&logo=apple&logoColor=0A0209" alt="macOS" />
+</p>
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- IDE & Environment -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
