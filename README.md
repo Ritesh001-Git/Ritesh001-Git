@@ -94,6 +94,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   <img src="https://img.shields.io/badge/Python-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python" />
   <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java" />
   <img src="https://img.shields.io/badge/Shell-d5d5d5?style=for-the-badge&logo=gnu-bash&logoColor=0A0209" alt="Shell" />
+  <img src="https://img.shields.io/badge/HCL-d5d5d5?style=for-the-badge&logo=hashicorp&logoColor=0A0209" alt="HCL" />
   
   <!--<img src="https://img.shields.io/badge/C-2D2D2D?style=for-the-badge&logo=c&logoColor=silver"/>
   <img src="https://img.shields.io/badge/C++-2D2D2D?style=for-the-badge&logo=cplusplus&logoColor=silver"/>
