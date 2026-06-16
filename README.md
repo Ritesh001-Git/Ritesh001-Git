@@ -417,6 +417,32 @@ Docker commands and notes covering containerization concepts, images, containers
 
 <tr>
 <td>
+<a href="https://github.com/Ritesh001-Git/kubernetes-cheat-sheet.git">
+<span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+Kubernetes Cheat Sheet
+</span>
+</a>
+</td>
+<td style="color:#A8A8A8;">
+A hands-on learning resource that explores Kubernetes fundamentals, helping learners understand container orchestration, application deployment, scaling, and cluster management in cloud-native environments.
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/Ritesh001-Git/Jenkins-Cheat-Sheet.git">
+<span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+Jenkins Cheat Sheet
+</span>
+</a>
+</td>
+<td style="color:#A8A8A8;">
+A comprehensive resource that introduces Jenkins and its role in continuous integration and continuous delivery (CI/CD), with practical guidance on creating and managing automated pipelines.
+</td>
+</tr>
+
+<tr>
+<td>
 <a href="https://github.com/Ritesh001-Git/Shell-Script-For-Devops">
 <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
 Shell Scripting
