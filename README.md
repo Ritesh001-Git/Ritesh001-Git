@@ -198,12 +198,12 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
     <!-- Project 1 -->
     <tr>
       <td>
-<a href="https://github.com/Ritesh001-Git/portfolio">
-  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">Portfolio</span>
+<a href="https://github.com/Ritesh001-Git/gitops-platform.git">
+  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">GitOps Deployment platform</span>
 </a>
 
   </td>
-      <td style="color:#A8A8A8;">Personal portfolio and contact information for Ritesh Kumar Swain, including social media profiles and professional details.</td>
+      <td style="color:#A8A8A8;">utomates deployments from GitHub to Kubernetes. Developers provide repository URLs; the platform handles cloning, Docker image building/pushing, zero-downtime Kubernetes deployment, and Grafana-streamed metrics.</td>
       <td>
         <img src="https://img.shields.io/badge/HTML5-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
