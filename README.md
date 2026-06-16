@@ -69,170 +69,153 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 
 <h2 align="center">Tech Stack</h2>
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- Programming Languages -->
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <h3 align="center">💻 Programming Languages</h3> -->
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
+  <!-- Programming -->
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.shields.io/badge/C++-d5d5d5?style=for-the-badge&logo=cplusplus&logoColor=0A0209" alt="C++" />
   </a>
-
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python" />
   </a>
-
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java" />
   </a>
-
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://img.shields.io/badge/Bash-d5d5d5?style=for-the-badge&logo=gnu-bash&logoColor=0A0209" alt="Bash" />
   </a>
 </p>
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- Backend & Web Development -->
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <h3 align="center">🌐 Backend & Web Development</h3> -->
-
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python%20Backend-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python Backend" />
-  </a>
-
-  <a href="https://restfulapi.net/" target="_blank">
-    <img src="https://img.shields.io/badge/REST%20APIs-d5d5d5?style=for-the-badge&logoColor=0A0209" alt="REST APIs" />
-  </a>
-
+  <!-- Backend -->
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://img.shields.io/badge/FastAPI-d5d5d5?style=for-the-badge&logo=fastapi&logoColor=0A0209" alt="FastAPI" />
   </a>
-
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://img.shields.io/badge/REST%20APIs-d5d5d5?style=for-the-badge&logoColor=0A0209" alt="REST APIs" />
+  </a>
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React-d5d5d5?style=for-the-badge&logo=react&logoColor=0A0209" alt="React" />
   </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python%20Backend-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python Backend" />
+  </a>
 </p>
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- Cloud Platforms -->
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <h3 align="center">☁️ Cloud Platforms</h3> -->
-
 <p align="center">
+  <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-d5d5d5?style=for-the-badge&logo=amazon-aws&logoColor=0A0209" alt="AWS" />
   </a>
-
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Azure-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure" />
+  <a href="https://aws.amazon.com/ec2/" target="_blank">
+    <img src="https://img.shields.io/badge/EC2-d5d5d5?style=for-the-badge&logo=amazonec2&logoColor=0A0209" alt="EC2" />
+  </a>
+  <a href="https://aws.amazon.com/iam/" target="_blank">
+    <img src="https://img.shields.io/badge/IAM-d5d5d5?style=for-the-badge&logo=amazonaws&logoColor=0A0209" alt="IAM" />
+  </a>
+  <a href="https://aws.amazon.com/cloudwatch/" target="_blank">
+    <img src="https://img.shields.io/badge/CloudWatch-d5d5d5?style=for-the-badge&logo=amazoncloudwatch&logoColor=0A0209" alt="CloudWatch" />
+  </a>
+  <a href="https://aws.amazon.com/cloudformation/" target="_blank">
+    <img src="https://img.shields.io/badge/CloudFormation-d5d5d5?style=for-the-badge&logo=amazonaws&logoColor=0A0209" alt="CloudFormation" />
   </a>
 </p>
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- DevOps & Infrastructure -->
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <h3 align="center">⚙️ DevOps & Infrastructure</h3> -->
+<p align="center">
+  <!-- Azure -->
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure" />
+  </a>
+  <a href="https://azure.microsoft.com/products/virtual-machines" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20VM-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure VM" />
+  </a>
+  <a href="https://azure.microsoft.com/products/storage/blobs" target="_blank">
+    <img src="https://img.shields.io/badge/Blob%20Storage-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Blob Storage" />
+  </a>
+  <a href="https://azure.microsoft.com/products/container-apps" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20Container%20Apps-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure Container Apps" />
+  </a>
+  <a href="https://azure.microsoft.com/products/container-registry" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20Container%20Registry-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure Container Registry" />
+  </a>
+</p>
 
 <p align="center">
+  <!-- DevOps -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
   </a>
-
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
   </a>
-
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-d5d5d5?style=for-the-badge&logo=docker&logoColor=0A0209" alt="Docker" />
   </a>
-
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://img.shields.io/badge/Kubernetes-d5d5d5?style=for-the-badge&logo=kubernetes&logoColor=0A0209" alt="Kubernetes" />
   </a>
-
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://img.shields.io/badge/Terraform-d5d5d5?style=for-the-badge&logo=terraform&logoColor=0A0209" alt="Terraform" />
   </a>
+</p>
 
+<p align="center">
+  <!-- Delivery -->
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://img.shields.io/badge/Jenkins-d5d5d5?style=for-the-badge&logo=jenkins&logoColor=0A0209" alt="Jenkins" />
   </a>
-
   <a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank">
     <img src="https://img.shields.io/badge/CI%2FCD-d5d5d5?style=for-the-badge&logo=githubactions&logoColor=0A0209" alt="CI/CD" />
   </a>
-
-  <a href="https://nginx.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Nginx-d5d5d5?style=for-the-badge&logo=nginx&logoColor=0A0209" alt="Nginx" />
-  </a>
-
   <a href="https://helm.sh/" target="_blank">
     <img src="https://img.shields.io/badge/Helm-d5d5d5?style=for-the-badge&logo=helm&logoColor=0A0209" alt="Helm" />
   </a>
-
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nginx-d5d5d5?style=for-the-badge&logo=nginx&logoColor=0A0209" alt="Nginx" />
+  </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://img.shields.io/badge/Jira-d5d5d5?style=for-the-badge&logo=jira&logoColor=0A0209" alt="Jira" />
   </a>
 </p>
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- Monitoring & Observability -->
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <h3 align="center">📊 Monitoring & Observability</h3> -->
-
 <p align="center">
+  <!-- Monitoring -->
   <a href="https://prometheus.io/" target="_blank">
     <img src="https://img.shields.io/badge/Prometheus-d5d5d5?style=for-the-badge&logo=prometheus&logoColor=0A0209" alt="Prometheus" />
   </a>
-
   <a href="https://grafana.com/" target="_blank">
     <img src="https://img.shields.io/badge/Grafana-d5d5d5?style=for-the-badge&logo=grafana&logoColor=0A0209" alt="Grafana" />
   </a>
 </p>
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- Databases & Operating Systems -->
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <h3 align="center">🗄️ Databases & Operating Systems</h3> -->
-
 <p align="center">
+  <!-- Data & OS -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-d5d5d5?style=for-the-badge&logo=mysql&logoColor=0A0209" alt="MySQL" />
   </a>
-
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-d5d5d5?style=for-the-badge&logo=postgresql&logoColor=0A0209" alt="PostgreSQL" />
   </a>
-
   <a href="https://ubuntu.com/" target="_blank">
     <img src="https://img.shields.io/badge/Ubuntu-d5d5d5?style=for-the-badge&logo=ubuntu&logoColor=0A0209" alt="Ubuntu" />
   </a>
-
   <a href="https://www.apple.com/macos/" target="_blank">
     <img src="https://img.shields.io/badge/macOS-d5d5d5?style=for-the-badge&logo=apple&logoColor=0A0209" alt="macOS" />
   </a>
 </p>
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- Competitive Programming -->
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <h3 align="center">🏆 Competitive Programming</h3> -->
-
 <p align="center">
+  <!-- Competitive Programming -->
   <a href="https://leetcode.com/ritesh2005/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" />
   </a>
-
   <a href="https://www.geeksforgeeks.org/user/riteshsw9cvk/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" alt="GeeksforGeeks" />
   </a>
-
   <a href="https://www.hackerrank.com/profile/riteshswain1973" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-d5d5d5?style=for-the-badge&logo=hackerrank&logoColor=0A0209" alt="HackerRank" />
   </a>
-
   <a href="https://codeforces.com/profile/riteshswain" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-d5d5d5?style=for-the-badge&logo=codeforces&logoColor=0A0209" alt="Codeforces" />
   </a>
