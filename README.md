@@ -220,57 +220,75 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- <h3 align="center">Web Development</h3> -->
 <p align="center">
-  <!-- HTML/CSS/JS + Frameworks -->
-  <img src="https://img.shields.io/badge/HTML5-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=javascript&logoColor=0A0209" alt="JavaScript" />
+  <!-- Development Frameworks & Technologies -->
 
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python%20Backend-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python Backend Development" />
+  </a>
+
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://img.shields.io/badge/REST%20APIs-d5d5d5?style=for-the-badge&logo=fastapi&logoColor=0A0209" alt="REST APIs" />
+  </a>
+
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FastAPI-d5d5d5?style=for-the-badge&logo=fastapi&logoColor=0A0209" alt="FastAPI" />
+  </a>
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-d5d5d5?style=for-the-badge&logo=react&logoColor=0A0209" alt="React" />
+  </a>
 </p>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Operating System -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- -- Operating System & Database -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-d5d5d5?style=for-the-badge&logo=sqlite&logoColor=0A0209" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-d5d5d5?style=for-the-badge&logo=postgresql&logoColor=0A0209" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/DynamoDB-d5d5d5?style=for-the-badge&logo=amazondynamodb&logoColor=0A0209" alt="DynamoDB" />
-</p>
+  <!-- Databases & Operating Systems -->
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Operating System -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-d5d5d5?style=for-the-badge&logo=ubuntu&logoColor=0A0209" alt="Linux(Ubuntu)" />
-  <img src="https://img.shields.io/badge/macOS-d5d5d5?style=for-the-badge&logo=apple&logoColor=0A0209" alt="macOS" />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-d5d5d5?style=for-the-badge&logo=mysql&logoColor=0A0209" alt="MySQL" />
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-d5d5d5?style=for-the-badge&logo=postgresql&logoColor=0A0209" alt="PostgreSQL" />
+  </a>
+
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Ubuntu-d5d5d5?style=for-the-badge&logo=ubuntu&logoColor=0A0209" alt="Ubuntu" />
+  </a>
+
+  <a href="https://www.apple.com/macos/" target="_blank">
+    <img src="https://img.shields.io/badge/macOS-d5d5d5?style=for-the-badge&logo=apple&logoColor=0A0209" alt="macOS" />
+  </a>
 </p>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- IDE & Environment -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- <h3 align="center">IDE & Environment</h3> -->
-<p align="center">
+<!-- <p align="center"> -->
 <!-- VS Code -->
-<a href="https://code.visualstudio.com/">
+<!-- <a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/VS%20Code-d5d5d5?style=for-the-badge&logo=visualstudiocode&logoColor=0A0209" alt="VS Code" />
-</a>
+</a> -->
 <!-- Xcode -->
-<a href="https://developer.apple.com/xcode/">
+<!-- <a href="https://developer.apple.com/xcode/">
   <img src="https://img.shields.io/badge/Xcode-d5d5d5?style=for-the-badge&logo=xcode&logoColor=0A0209" alt="Xcode" />
-</a>
+</a> -->
 <!-- Android Studio -->
-<a href="https://developer.android.com/studio">
+<!-- <a href="https://developer.android.com/studio">
   <img src="https://img.shields.io/badge/Android%20Studio-d5d5d5?style=for-the-badge&logo=androidstudio&logoColor=0A0209" alt="Android Studio" />
-</a>
+</a> -->
 <!-- Replit -->
-<a href="https://replit.com/">
+<!-- <a href="https://replit.com/">
   <img src="https://img.shields.io/badge/Replit-d5d5d5?style=for-the-badge&logo=replit&logoColor=0A0209" alt="Replit" />
-</a>
+</a> -->
 
 <!-- Jupyter -->
-<a href="https://jupyter.org/">
+<!-- <a href="https://jupyter.org/">
   <img src="https://img.shields.io/badge/Jupyter-d5d5d5?style=for-the-badge&logo=jupyter&logoColor=0A0209" alt="Jupyter Notebook" />
 </a>
-</p>
+</p> -->
 
 <hr style="border: 0; height: 4px; background: linear-gradient(90deg, #B8B8B8, #E0E0E0, #B8B8B8); border-radius: 2px;">
 
