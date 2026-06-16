@@ -69,39 +69,130 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <h2 align="center">Tech Stack</h2>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh001-Git&hide_border=true&border_radius=8&background=c0c0c0,eeeeee,f8f8f8&ring=000000&fire=000000&currStreakNum=000000&sideNums=333333&sideLabels=333333&dates=333333&stroke=000000)](https://git.io/streak-stats) -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Cloud & DevOps -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <h3 align="center">Cloud & DevOps</h3> -->
-<p align="center">
-  <!-- DevOps + Cloud Badges -->
-  <img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-d5d5d5?style=for-the-badge&logo=docker&logoColor=0A0209" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-d5d5d5?style=for-the-badge&logo=kubernetes&logoColor=0A0209" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Jira-d5d5d5?style=for-the-badge&logo=jira&logoColor=0A0209" alt="Jira" />
-  <img src="https://img.shields.io/badge/AWS-d5d5d5?style=for-the-badge&logo=amazon-aws&logoColor=0A0209" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform-d5d5d5?style=for-the-badge&logo=terraform&logoColor=0A0209" alt="Terraform" />
-</p>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Programming Language -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- <h3 align="center">Programming</h3> -->
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-d5d5d5?style=for-the-badge&logo=c&logoColor=0A0209" alt="C" />
-  <img src="https://img.shields.io/badge/C++-d5d5d5?style=for-the-badge&logo=cplusplus&logoColor=0A0209" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java" />
-  <img src="https://img.shields.io/badge/Shell-d5d5d5?style=for-the-badge&logo=gnu-bash&logoColor=0A0209" alt="Shell" />
-  <img src="https://img.shields.io/badge/HCL-d5d5d5?style=for-the-badge&logo=hashicorp&logoColor=0A0209" alt="HCL" />
-  
-  <!--<img src="https://img.shields.io/badge/C-2D2D2D?style=for-the-badge&logo=c&logoColor=silver"/>
-  <img src="https://img.shields.io/badge/C++-2D2D2D?style=for-the-badge&logo=cplusplus&logoColor=silver"/>
-  <img src="https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=silver"/>
-  <img src="https://img.shields.io/badge/Dart-2D2D2D?style=for-the-badge&logo=dart&logoColor=silver"/>
-  <img src="https://img.shields.io/badge/Java-2D2D2D?style=for-the-badge&logo=openjdk&logoColor=silver"/>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-d5d5d5?style=for-the-badge&logo=cplusplus&logoColor=0A0209" alt="C++" />
+  </a>
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python" />
+  </a>
+
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java" />
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://img.shields.io/badge/Shell-d5d5d5?style=for-the-badge&logo=gnu-bash&logoColor=0A0209" alt="Shell" />
+  </a>
 </p>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Cloud & DevOps -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- <h3 align="center">Cloud & DevOps</h3> -->
+<p align="center">
+  <!-- DevOps + Cloud Badges -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
+  </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-d5d5d5?style=for-the-badge&logo=docker&logoColor=0A0209" alt="Docker" />
+  </a>
+
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-d5d5d5?style=for-the-badge&logo=kubernetes&logoColor=0A0209" alt="Kubernetes" />
+  </a>
+
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.shields.io/badge/Jira-d5d5d5?style=for-the-badge&logo=jira&logoColor=0A0209" alt="Jira" />
+  </a>
+
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Terraform-d5d5d5?style=for-the-badge&logo=terraform&logoColor=0A0209" alt="Terraform" />
+  </a>
+
+  <!-- Missing Tools -->
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Jenkins-d5d5d5?style=for-the-badge&logo=jenkins&logoColor=0A0209" alt="Jenkins" />
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank">
+    <img src="https://img.shields.io/badge/CI%2FCD-d5d5d5?style=for-the-badge&logo=githubactions&logoColor=0A0209" alt="CI/CD" />
+  </a>
+
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nginx-d5d5d5?style=for-the-badge&logo=nginx&logoColor=0A0209" alt="Nginx" />
+  </a>
+
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prometheus-d5d5d5?style=for-the-badge&logo=prometheus&logoColor=0A0209" alt="Prometheus" />
+  </a>
+
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Grafana-d5d5d5?style=for-the-badge&logo=grafana&logoColor=0A0209" alt="Grafana" />
+  </a>
+
+  <a href="https://helm.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/Helm-d5d5d5?style=for-the-badge&logo=helm&logoColor=0A0209" alt="Helm" />
+  </a>
+</p>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Cloud Platforms -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<p align="center">
+  <!-- Cloud Platforms -->
+
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-d5d5d5?style=for-the-badge&logo=amazon-aws&logoColor=0A0209" alt="AWS" />
+  </a>
+
+  <a href="https://aws.amazon.com/ec2/" target="_blank">
+    <img src="https://img.shields.io/badge/EC2-d5d5d5?style=for-the-badge&logo=amazonec2&logoColor=0A0209" alt="Amazon EC2" />
+  </a>
+
+  <a href="https://aws.amazon.com/iam/" target="_blank">
+    <img src="https://img.shields.io/badge/IAM-d5d5d5?style=for-the-badge&logo=amazonaws&logoColor=0A0209" alt="AWS IAM" />
+  </a>
+
+  <a href="https://aws.amazon.com/cloudwatch/" target="_blank">
+    <img src="https://img.shields.io/badge/CloudWatch-d5d5d5?style=for-the-badge&logo=amazoncloudwatch&logoColor=0A0209" alt="Amazon CloudWatch" />
+  </a>
+
+  <a href="https://aws.amazon.com/cloudformation/" target="_blank">
+    <img src="https://img.shields.io/badge/CloudFormation-d5d5d5?style=for-the-badge&logo=amazonaws&logoColor=0A0209" alt="AWS CloudFormation" />
+  </a>
+
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure" />
+  </a>
+
+  <a href="https://azure.microsoft.com/products/virtual-machines" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20VM-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure Virtual Machines" />
+  </a>
+
+  <a href="https://azure.microsoft.com/products/storage/blobs" target="_blank">
+    <img src="https://img.shields.io/badge/Blob%20Storage-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure Blob Storage" />
+  </a>
+
+  <a href="https://azure.microsoft.com/products/container-apps" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20Container%20Apps-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure Container Apps" />
+  </a>
+
+  <a href="https://azure.microsoft.com/products/container-registry" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20Container%20Registry-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure Container Registry" />
+  </a>
+</p>
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Competitive Coding -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
