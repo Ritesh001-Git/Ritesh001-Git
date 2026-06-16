@@ -233,93 +233,131 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
       <th><span style="color:#C0C0C0; font-size:16px;">🛠️ Tech Stack</span></th>
     </tr>
   </thead>
-  <body>
-    <!-- Project 1 -->
-    <tr>
-      <td>
-<a href="https://github.com/Ritesh001-Git/gitops-platform.git">
-  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">GitOps Deployment platform</span>
-</a>
+<body>
 
-  </td>
-      <td style="color:#A8A8A8;">Automates deployments from GitHub to Kubernetes. Developers provide repository URLs; the platform handles cloning, Docker image building/pushing, zero-downtime Kubernetes deployment, and Grafana-streamed metrics.</td>
-      <td>
-        <img src="https://img.shields.io/badge/HTML5-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=javascript&logoColor=0A0209" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Netlify-d5d5d5?style=for-the-badge&logo=netlify&logoColor=0A0209" alt="Netlify" />
-      </td>
-    </tr>
+  <!-- Project 1 -->
+  <tr>
+    <td>
+      <a href="https://github.com/Ritesh001-Git/gitops-platform.git">
+        <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+          GitOps Deployment Platform
+        </span>
+      </a>
+    </td>
+    <td style="color:#A8A8A8;">
+      Automates deployments from GitHub to Kubernetes through a complete GitOps workflow. It clones repositories, builds Docker images, pushes them to registries, performs zero-downtime Kubernetes deployments, and streams real-time metrics to Grafana.
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-D5D5D5?style=for-the-badge&logo=react&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/FastAPI-D5D5D5?style=for-the-badge&logo=fastapi&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Docker-D5D5D5?style=for-the-badge&logo=docker&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Kubernetes-D5D5D5?style=for-the-badge&logo=kubernetes&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Jenkins-D5D5D5?style=for-the-badge&logo=jenkins&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Terraform-D5D5D5?style=for-the-badge&logo=terraform&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Prometheus-D5D5D5?style=for-the-badge&logo=prometheus&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Grafana-D5D5D5?style=for-the-badge&logo=grafana&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/AWS%20EC2-D5D5D5?style=for-the-badge&logo=amazonec2&logoColor=0A0209"/>
+    </td>
+  </tr>
 
   <!-- Project 2 -->
   <tr>
-      <td>
-<a href="https://github.com/Ritesh001-Git/Sleep-Bot">
-  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">Sleepbot</span>
-</a>
-      </td>
-      <td style="color:#A8A8A8;">SleepBot is a compact, full-stack AI sleep coach that crafts personalized plans and routines. It offers dynamic guidance and AI-generated programs tailored to your goals and lifestyle.</td>
-      <td>
-        <img src="https://img.shields.io/badge/React-D5D5D5?style=for-the-badge&logo=react&logoColor=0A0209"/>
-        <img src="https://img.shields.io/badge/TypeScript-D5D5D5?style=for-the-badge&logo=typescript&logoColor=0A0209"/>
-        <img src="https://img.shields.io/badge/Node.js-D5D5D5?style=for-the-badge&logo=node.js&logoColor=0A0209"/>
-        <img src="https://img.shields.io/badge/Convex-D5D5D5?style=for-the-badge&logo=convex&logoColor=0A0209"/>
-        <img src="https://img.shields.io/badge/Gemini_AI-D5D5D5?style=for-the-badge&logo=googlegemini&logoColor=0A0209"/>
-        <img src="https://img.shields.io/badge/Vapi_AI-D5D5D5?style=for-the-badge&logo=vapi&logoColor=0A0209"/>
-      </td>
-    </tr>
+    <td>
+      <a href="https://github.com/Ritesh001-Git/aI-cloud-cost-detective.git">
+        <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+          AI Cloud Cost Detective
+        </span>
+      </a>
+    </td>
+    <td style="color:#A8A8A8;">
+      A multi-cloud FinOps platform that detects infrastructure cost leaks using Gemini 2.5 Flash, identifies idle resources and anomalies, and generates remediation recommendations with real-time progress updates.
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-D5D5D5?style=for-the-badge&logo=react&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/FastAPI-D5D5D5?style=for-the-badge&logo=fastapi&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-D5D5D5?style=for-the-badge&logo=postgresql&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Gemini_AI-D5D5D5?style=for-the-badge&logo=googlegemini&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Docker-D5D5D5?style=for-the-badge&logo=docker&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Terraform-D5D5D5?style=for-the-badge&logo=terraform&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Azure%20Container%20Apps-D5D5D5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Azure%20ACR-D5D5D5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Azure%20Key%20Vault-D5D5D5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Prometheus-D5D5D5?style=for-the-badge&logo=prometheus&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Grafana-D5D5D5?style=for-the-badge&logo=grafana&logoColor=0A0209"/>
+    </td>
+  </tr>
 
   <!-- Project 3 -->
   <tr>
-      <td>
-<a href="https://github.com/Ritesh001-Git/serverless-image-resizer">
-  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">Serverless Image Resizer</span>
-</a>
-      </td>
-      <td style="color:#A8A8A8;">This project simulates image upload and resizing using AWS services. A Lambda function pulls images from one S3 bucket, resizes them, and saves the results to another S3 bucket. It also logs a success message to CloudWatch Logs to emulate a complete workflow.</td>
-      <td>
-        <img src="https://img.shields.io/badge/Amazon%20S3-d5d5d5?style=for-the-badge&logo=amazonaws&logoColor=0A0209" alt="Amazon S3" />
-        <img src="https://img.shields.io/badge/AWS%20Lambda-d5d5d5?style=for-the-badge&logo=awslambda&logoColor=0A0209" alt="AWS Lambda" />
-        <img src="https://img.shields.io/badge/Python-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python" />
-        <img src="https://img.shields.io/badge/HTML5-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=javascript&logoColor=0A0209" alt="JavaScript" />
-      </td>
-    </tr>
+    <td>
+      <a href="https://github.com/Ritesh001-Git/Mini-PaaS-Platform">
+        <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+          CloudOps Mini-PaaS Platform
+        </span>
+      </a>
+    </td>
+    <td style="color:#A8A8A8;">
+      A lightweight PaaS that deploys GitHub repositories as containerized applications by automating image builds, reverse proxy configuration, and deployment tracking using Python and Docker.
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-D5D5D5?style=for-the-badge&logo=fastapi&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Python-D5D5D5?style=for-the-badge&logo=python&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Docker-D5D5D5?style=for-the-badge&logo=docker&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Docker%20Compose-D5D5D5?style=for-the-badge&logo=docker&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Nginx-D5D5D5?style=for-the-badge&logo=nginx&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-D5D5D5?style=for-the-badge&logo=postgresql&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/AWS%20EC2-D5D5D5?style=for-the-badge&logo=amazonec2&logoColor=0A0209"/>
+    </td>
+  </tr>
 
   <!-- Project 4 -->
   <tr>
-      <td>
-        <a href="https://github.com/Ritesh001-Git/Mini-PaaS-Platform">
-  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">Mini PaaS Platform</span>
-</a>
-      </td>
-      <td style="color:#A8A8A8;">Developed a mini-PaaS platform using a Python backend and SQL database that automatically detects Docker file in GitHub repositories and builds containerized applications using Docker and Docker Compose.Orchestrated multi-service architecture using Docker Compose, Nginx reverse proxy (port 80/8000), and SQL database for scalable and modular deployment across 3+ interconnected services.</td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-D5D5D5?style=for-the-badge&logo=puthon&logoColor=0A0209"/>
-        <img src="https://img.shields.io/badge/MySql-D5D5D5?style=for-the-badge&logo=mysql&logoColor=0A0209"/>
-        <img src="https://img.shields.io/badge/Ngnix-D5D5D5?style=for-the-badge&logo=ngnix&logoColor=0A0209"/>
-        <img src="https://img.shields.io/badge/Docker-D5D5D5?style=for-the-badge&logo=docker&logoColor=0A0209"/>
-      </td>
-    </tr>
+    <td>
+      <a href="https://github.com/Ritesh001-Git/plagchecker.git">
+        <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+          AI Content Detector & Plagiarism Checker
+        </span>
+      </a>
+    </td>
+    <td style="color:#A8A8A8;">
+      A Java-based detector that estimates whether text was generated by LLMs using NLP, stylometric analysis, and machine learning techniques.
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-D5D5D5?style=for-the-badge&logo=openjdk&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/AWS%20EC2-D5D5D5?style=for-the-badge&logo=amazonec2&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Docker-D5D5D5?style=for-the-badge&logo=docker&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/REST%20APIs-D5D5D5?style=for-the-badge&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/HTML5-D5D5D5?style=for-the-badge&logo=html5&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/CSS3-D5D5D5?style=for-the-badge&logo=css3&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/JavaScript-D5D5D5?style=for-the-badge&logo=javascript&logoColor=0A0209"/>
+    </td>
+  </tr>
 
   <!-- Project 5 -->
   <tr>
-      <td>
-        <a href="https://github.com/Ritesh001-Git/plagchecker">
-  <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">Plagiarism Checker & AI Content Detector</span>
-</a>
-      </td>
-      <td style="color:#A8A8A8;">About
-A lightweight, offline Java + HTML/JS application to detect both plagiarism and AI-generated content in text.</td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java" />
-        <img src="https://img.shields.io/badge/HTML5-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=javascript&logoColor=0A0209" alt="JavaScript" />
-      </td>
-    </tr>
-  </body>
+    <td>
+      <a href="https://github.com/Ritesh001-Git/serverless-image-resizer">
+        <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+          Serverless Image Resizer
+        </span>
+      </a>
+    </td>
+    <td style="color:#A8A8A8;">
+      Simulates an image-processing pipeline using AWS services. Images uploaded to S3 trigger Lambda-based resizing, with outputs stored in another bucket and execution logs captured in CloudWatch.
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Amazon%20S3-D5D5D5?style=for-the-badge&logo=amazonaws&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/AWS%20Lambda-D5D5D5?style=for-the-badge&logo=awslambda&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Python-D5D5D5?style=for-the-badge&logo=python&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Boto3-D5D5D5?style=for-the-badge&logo=amazonaws&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/HTML5-D5D5D5?style=for-the-badge&logo=html5&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/CSS3-D5D5D5?style=for-the-badge&logo=css3&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/JavaScript-D5D5D5?style=for-the-badge&logo=javascript&logoColor=0A0209"/>
+    </td>
+  </tr>
+
+</body>
+
 </table>
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #7F7F7F, #C0C0C0, #7F7F7F);">
