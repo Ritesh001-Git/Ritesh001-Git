@@ -29,8 +29,8 @@ I am a passionate CSE student at Lovely Professional University.
 ☁️ Currently learning Cloud & DevOps.
 Focused on automation, CI/CD, and cloud infrastructure.
 
-🤖 Exploring AI & Machine Learning.
-Excited about building intelligent and real-world impactful systems.
+🐍 Exploring Backend Development with Python
+Building scalable applications and REST APIs using modern frameworks like FastAPI.
 
 🧠 Practicing DSA and competitive programming.
 Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
@@ -66,8 +66,6 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Tech Stack -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<h2 align="center">Tech Stack</h2>
 
 <h2 align="center">Tech Stack</h2>
 
