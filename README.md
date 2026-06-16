@@ -66,14 +66,15 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Tech Stack -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 <h2 align="center">Tech Stack</h2>
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh001-Git&hide_border=true&border_radius=8&background=c0c0c0,eeeeee,f8f8f8&ring=000000&fire=000000&currStreakNum=000000&sideNums=333333&sideLabels=333333&dates=333333&stroke=000000)](https://git.io/streak-stats) -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Programming Language -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <h3 align="center">Programming</h3> -->
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- Programming Languages -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- <h3 align="center">💻 Programming Languages</h3> -->
+
 <p align="center">
-  <!-- Languages -->
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.shields.io/badge/C++-d5d5d5?style=for-the-badge&logo=cplusplus&logoColor=0A0209" alt="C++" />
   </a>
@@ -87,15 +88,54 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   </a>
 
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.shields.io/badge/Shell-d5d5d5?style=for-the-badge&logo=gnu-bash&logoColor=0A0209" alt="Shell" />
+    <img src="https://img.shields.io/badge/Bash-d5d5d5?style=for-the-badge&logo=gnu-bash&logoColor=0A0209" alt="Bash" />
   </a>
 </p>
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Cloud & DevOps -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <h3 align="center">Cloud & DevOps</h3> -->
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- Backend & Web Development -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- <h3 align="center">🌐 Backend & Web Development</h3> -->
+
 <p align="center">
-  <!-- DevOps + Cloud Badges -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python%20Backend-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python Backend" />
+  </a>
+
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://img.shields.io/badge/REST%20APIs-d5d5d5?style=for-the-badge&logoColor=0A0209" alt="REST APIs" />
+  </a>
+
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FastAPI-d5d5d5?style=for-the-badge&logo=fastapi&logoColor=0A0209" alt="FastAPI" />
+  </a>
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-d5d5d5?style=for-the-badge&logo=react&logoColor=0A0209" alt="React" />
+  </a>
+</p>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- Cloud Platforms -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- <h3 align="center">☁️ Cloud Platforms</h3> -->
+
+<p align="center">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-d5d5d5?style=for-the-badge&logo=amazon-aws&logoColor=0A0209" alt="AWS" />
+  </a>
+
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure" />
+  </a>
+</p>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- DevOps & Infrastructure -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- <h3 align="center">⚙️ DevOps & Infrastructure</h3> -->
+
+<p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git" />
   </a>
@@ -112,15 +152,10 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
     <img src="https://img.shields.io/badge/Kubernetes-d5d5d5?style=for-the-badge&logo=kubernetes&logoColor=0A0209" alt="Kubernetes" />
   </a>
 
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://img.shields.io/badge/Jira-d5d5d5?style=for-the-badge&logo=jira&logoColor=0A0209" alt="Jira" />
-  </a>
-
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://img.shields.io/badge/Terraform-d5d5d5?style=for-the-badge&logo=terraform&logoColor=0A0209" alt="Terraform" />
   </a>
 
-  <!-- Missing Tools -->
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://img.shields.io/badge/Jenkins-d5d5d5?style=for-the-badge&logo=jenkins&logoColor=0A0209" alt="Jenkins" />
   </a>
@@ -133,6 +168,21 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
     <img src="https://img.shields.io/badge/Nginx-d5d5d5?style=for-the-badge&logo=nginx&logoColor=0A0209" alt="Nginx" />
   </a>
 
+  <a href="https://helm.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/Helm-d5d5d5?style=for-the-badge&logo=helm&logoColor=0A0209" alt="Helm" />
+  </a>
+
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.shields.io/badge/Jira-d5d5d5?style=for-the-badge&logo=jira&logoColor=0A0209" alt="Jira" />
+  </a>
+</p>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- Monitoring & Observability -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- <h3 align="center">📊 Monitoring & Observability</h3> -->
+
+<p align="center">
   <a href="https://prometheus.io/" target="_blank">
     <img src="https://img.shields.io/badge/Prometheus-d5d5d5?style=for-the-badge&logo=prometheus&logoColor=0A0209" alt="Prometheus" />
   </a>
@@ -140,111 +190,14 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   <a href="https://grafana.com/" target="_blank">
     <img src="https://img.shields.io/badge/Grafana-d5d5d5?style=for-the-badge&logo=grafana&logoColor=0A0209" alt="Grafana" />
   </a>
-
-  <a href="https://helm.sh/" target="_blank">
-    <img src="https://img.shields.io/badge/Helm-d5d5d5?style=for-the-badge&logo=helm&logoColor=0A0209" alt="Helm" />
-  </a>
 </p>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Cloud Platforms -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- Databases & Operating Systems -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- <h3 align="center">🗄️ Databases & Operating Systems</h3> -->
+
 <p align="center">
-  <!-- Cloud Platforms -->
-
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-d5d5d5?style=for-the-badge&logo=amazon-aws&logoColor=0A0209" alt="AWS" />
-  </a>
-
-  <a href="https://aws.amazon.com/ec2/" target="_blank">
-    <img src="https://img.shields.io/badge/EC2-d5d5d5?style=for-the-badge&logo=amazonec2&logoColor=0A0209" alt="Amazon EC2" />
-  </a>
-
-  <a href="https://aws.amazon.com/iam/" target="_blank">
-    <img src="https://img.shields.io/badge/IAM-d5d5d5?style=for-the-badge&logo=amazonaws&logoColor=0A0209" alt="AWS IAM" />
-  </a>
-
-  <a href="https://aws.amazon.com/cloudwatch/" target="_blank">
-    <img src="https://img.shields.io/badge/CloudWatch-d5d5d5?style=for-the-badge&logo=amazoncloudwatch&logoColor=0A0209" alt="Amazon CloudWatch" />
-  </a>
-
-  <a href="https://aws.amazon.com/cloudformation/" target="_blank">
-    <img src="https://img.shields.io/badge/CloudFormation-d5d5d5?style=for-the-badge&logo=amazonaws&logoColor=0A0209" alt="AWS CloudFormation" />
-  </a>
-
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Azure-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure" />
-  </a>
-
-  <a href="https://azure.microsoft.com/products/virtual-machines" target="_blank">
-    <img src="https://img.shields.io/badge/Azure%20VM-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure Virtual Machines" />
-  </a>
-
-  <a href="https://azure.microsoft.com/products/storage/blobs" target="_blank">
-    <img src="https://img.shields.io/badge/Blob%20Storage-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure Blob Storage" />
-  </a>
-
-  <a href="https://azure.microsoft.com/products/container-apps" target="_blank">
-    <img src="https://img.shields.io/badge/Azure%20Container%20Apps-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure Container Apps" />
-  </a>
-
-  <a href="https://azure.microsoft.com/products/container-registry" target="_blank">
-    <img src="https://img.shields.io/badge/Azure%20Container%20Registry-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure Container Registry" />
-  </a>
-</p>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Competitive Coding -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <h3 align="center">Competitive Coding</h3> -->
-<p align="center">
-  <!-- LeetCode -->
-<a href="https://leetcode.com/ritesh2005/">
-  <img src="https://img.shields.io/badge/LeetCode-D5D5D5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/riteshsw9cvk/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-D5D5D5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" alt="GeeksforGeeks" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/riteshswain1973">
-  <img src="https://img.shields.io/badge/HackerRank-D5D5D5?style=for-the-badge&logo=hackerrank&logoColor=0A0209" alt="HackerRank" />
-</a>
-
-<a href="https://codeforces.com/profile/riteshswain">
-  <img src="https://img.shields.io/badge/CodeForces-D5D5D5?style=for-the-badge&logo=codeforces&logoColor=0A0209" alt="CodeForces" />
-</a>
-</p>
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Web Development -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <h3 align="center">Web Development</h3> -->
-<p align="center">
-  <!-- Development Frameworks & Technologies -->
-
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python%20Backend-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python Backend Development" />
-  </a>
-
-  <a href="https://restfulapi.net/" target="_blank">
-    <img src="https://img.shields.io/badge/REST%20APIs-d5d5d5?style=for-the-badge&logo=fastapi&logoColor=0A0209" alt="REST APIs" />
-  </a>
-
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://img.shields.io/badge/FastAPI-d5d5d5?style=for-the-badge&logo=fastapi&logoColor=0A0209" alt="FastAPI" />
-  </a>
-
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-d5d5d5?style=for-the-badge&logo=react&logoColor=0A0209" alt="React" />
-  </a>
-</p>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Operating System & Database -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<p align="center">
-  <!-- Databases & Operating Systems -->
-
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-d5d5d5?style=for-the-badge&logo=mysql&logoColor=0A0209" alt="MySQL" />
   </a>
@@ -262,33 +215,29 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   </a>
 </p>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- IDE & Environment -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <h3 align="center">IDE & Environment</h3> -->
-<!-- <p align="center"> -->
-<!-- VS Code -->
-<!-- <a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/VS%20Code-d5d5d5?style=for-the-badge&logo=visualstudiocode&logoColor=0A0209" alt="VS Code" />
-</a> -->
-<!-- Xcode -->
-<!-- <a href="https://developer.apple.com/xcode/">
-  <img src="https://img.shields.io/badge/Xcode-d5d5d5?style=for-the-badge&logo=xcode&logoColor=0A0209" alt="Xcode" />
-</a> -->
-<!-- Android Studio -->
-<!-- <a href="https://developer.android.com/studio">
-  <img src="https://img.shields.io/badge/Android%20Studio-d5d5d5?style=for-the-badge&logo=androidstudio&logoColor=0A0209" alt="Android Studio" />
-</a> -->
-<!-- Replit -->
-<!-- <a href="https://replit.com/">
-  <img src="https://img.shields.io/badge/Replit-d5d5d5?style=for-the-badge&logo=replit&logoColor=0A0209" alt="Replit" />
-</a> -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- Competitive Programming -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- <h3 align="center">🏆 Competitive Programming</h3> -->
 
-<!-- Jupyter -->
-<!-- <a href="https://jupyter.org/">
-  <img src="https://img.shields.io/badge/Jupyter-d5d5d5?style=for-the-badge&logo=jupyter&logoColor=0A0209" alt="Jupyter Notebook" />
-</a>
-</p> -->
+<p align="center">
+  <a href="https://leetcode.com/ritesh2005/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" />
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/user/riteshsw9cvk/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" alt="GeeksforGeeks" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/riteshswain1973" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-d5d5d5?style=for-the-badge&logo=hackerrank&logoColor=0A0209" alt="HackerRank" />
+  </a>
+
+  <a href="https://codeforces.com/profile/riteshswain" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-d5d5d5?style=for-the-badge&logo=codeforces&logoColor=0A0209" alt="Codeforces" />
+  </a>
+</p>
+
 
 <hr style="border: 0; height: 4px; background: linear-gradient(90deg, #B8B8B8, #E0E0E0, #B8B8B8); border-radius: 2px;">
 
