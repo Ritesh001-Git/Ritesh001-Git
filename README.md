@@ -297,16 +297,14 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
       </a>
     </td>
     <td style="color:#A8A8A8;">
-      A lightweight PaaS that deploys GitHub repositories as containerized applications by automating image builds, reverse proxy configuration, and deployment tracking using Python and Docker.
+      Repo2Docker is a lightweight web application that uses Jenkins to build and push Docker images from public GitHub repositories with a single click.    
     </td>
     <td>
       <img src="https://img.shields.io/badge/FastAPI-D5D5D5?style=for-the-badge&logo=fastapi&logoColor=0A0209"/>
       <img src="https://img.shields.io/badge/Python-D5D5D5?style=for-the-badge&logo=python&logoColor=0A0209"/>
       <img src="https://img.shields.io/badge/Docker-D5D5D5?style=for-the-badge&logo=docker&logoColor=0A0209"/>
-      <img src="https://img.shields.io/badge/Docker%20Compose-D5D5D5?style=for-the-badge&logo=docker&logoColor=0A0209"/>
-      <img src="https://img.shields.io/badge/Nginx-D5D5D5?style=for-the-badge&logo=nginx&logoColor=0A0209"/>
       <img src="https://img.shields.io/badge/PostgreSQL-D5D5D5?style=for-the-badge&logo=postgresql&logoColor=0A0209"/>
-      <img src="https://img.shields.io/badge/AWS%20EC2-D5D5D5?style=for-the-badge&logo=amazonec2&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Jenkins-D5D5D5?style=for-the-badge&logo=jenkins&logoColor=0A0209"/>
     </td>
   </tr>
 
