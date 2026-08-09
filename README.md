@@ -290,9 +290,9 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   <!-- Project 3 -->
   <tr>
     <td>
-      <a href="https://github.com/Ritesh001-Git/Mini-PaaS-Platform">
+      <a href="https://github.com/Ritesh001-Git/Repo2Docker.git">
         <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
-          CloudOps Mini-PaaS Platform
+          Repo2Docker
         </span>
       </a>
     </td>
