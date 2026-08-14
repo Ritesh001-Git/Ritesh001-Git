@@ -77,9 +77,9 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java" />
   </a>
-  <a href="https://isocpp.org/" target="_blank">
+  <!-- <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.shields.io/badge/C++-d5d5d5?style=for-the-badge&logo=cplusplus&logoColor=0A0209" alt="C++" />
-  </a>
+  </a> -->
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://img.shields.io/badge/Shell-d5d5d5?style=for-the-badge&logo=shell&logoColor=0A0209" alt="Shell" />
   </a>
