@@ -113,10 +113,13 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
     <img src="https://img.shields.io/badge/IAM-d5d5d5?style=for-the-badge&logo=amazonaws&logoColor=0A0209" alt="IAM" />
   </a>
   <a href="https://aws.amazon.com/cloudwatch/" target="_blank">
-    <img src="https://img.shields.io/badge/CloudWatch-d5d5d5?style=for-the-badge&logo=amazoncloudwatch&logoColor=0A0209" alt="CloudWatch" />
+    <img src="https://img.shields.io/badge/Cloud Watch-d5d5d5?style=for-the-badge&logo=amazoncloudwatch&logoColor=0A0209" alt="Cloud Watch" />
+  </a>
+  <a href="https://aws.amazon.com/lambda/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Lambda-d5d5d5?style=for-the-badge&logo=awslambda&logoColor=0A0209" alt="AWS Lambda" />
   </a>
   <a href="https://aws.amazon.com/cloudformation/" target="_blank">
-    <img src="https://img.shields.io/badge/CloudFormation-d5d5d5?style=for-the-badge&logo=amazonaws&logoColor=0A0209" alt="CloudFormation" />
+    <img src="https://img.shields.io/badge/Cloud Formation-d5d5d5?style=for-the-badge&logo=amazonaws&logoColor=0A0209" alt="Cloud Formation" />
   </a>
 </p>
 
@@ -134,9 +137,12 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   <a href="https://azure.microsoft.com/products/container-apps" target="_blank">
     <img src="https://img.shields.io/badge/Azure%20Container%20Apps-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure Container Apps" />
   </a>
-  <a href="https://azure.microsoft.com/products/container-registry" target="_blank">
-    <img src="https://img.shields.io/badge/Azure%20Container%20Registry-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure Container Registry" />
+  <a href="https://azure.microsoft.com/en-us/products/functions/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20Functions-d5d5d5?style=for-the-badge&logo=azurefunctions&logoColor=0A0209" alt="Azure Functions" />
   </a>
+  <!-- <a href="https://azure.microsoft.com/products/container-registry" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20Container%20Registry-d5d5d5?style=for-the-badge&logo=microsoftazure&logoColor=0A0209" alt="Azure Container Registry" />
+  </a> -->
 </p>
 
 <p align="center">
