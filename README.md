@@ -93,9 +93,9 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   <a href="https://restfulapi.net/" target="_blank">
     <img src="https://img.shields.io/badge/REST%20APIs-d5d5d5?style=for-the-badge&logoColor=0A0209" alt="REST APIs" />
   </a>
-  <a href="https://react.dev/" target="_blank">
+  <!-- <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React-d5d5d5?style=for-the-badge&logo=react&logoColor=0A0209" alt="React" />
-  </a>
+  </a> -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python%20Backend-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python Backend" />
   </a>
