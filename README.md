@@ -324,6 +324,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
       <img src="https://img.shields.io/badge/Python-D5D5D5?style=for-the-badge&logo=python&logoColor=0A0209"/>
       <img src="https://img.shields.io/badge/FastAPI-D5D5D5?style=for-the-badge&logo=fastapi&logoColor=0A0209"/>
       <img src="https://img.shields.io/badge/TypeScript-D5D5D5?style=for-the-badge&logo=typescript&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-D5D5D5?style=for-the-badge&logo=postgresql&logoColor=0A0209"/>
       <img src="https://img.shields.io/badge/AWS%20EC2-D5D5D5?style=for-the-badge&logo=amazonec2&logoColor=0A0209"/>
       <img src="https://img.shields.io/badge/Nginx-D5D5D5?style=for-the-badge&logo=nginx&logoColor=0A0209"/>
       <img src="https://img.shields.io/badge/Terraform-D5D5D5?style=for-the-badge&logo=terraform&logoColor=0A0209"/>
