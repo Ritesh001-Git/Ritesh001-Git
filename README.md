@@ -311,7 +311,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   <!-- Project 4 -->
   <tr>
     <td>
-      <a href="https://github.com/Ritesh001-Git/plagchecker.git">
+      <a href="https://github.com/Ritesh001-Git/Typeform-Builder.git">
         <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
           Fromly
         </span>
