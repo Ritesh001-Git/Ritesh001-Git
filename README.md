@@ -434,6 +434,19 @@ A hands-on learning resource that explores Kubernetes fundamentals, helping lear
 
 <tr>
 <td>
+<a href="https://github.com/Ritesh001-Git/Terraform-Cheat-Sheet.git">
+<span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+Terraform Cheat Sheet
+</span>
+</a>
+</td>
+<td style="color:#A8A8A8;">
+A curated Terraform cheat sheet containing essential CLI commands, best practices, and quick-reference syntax for infrastructure as code (IaC).
+</td>
+</tr>
+
+<tr>
+<td>
 <a href="https://github.com/Ritesh001-Git/Jenkins-Cheat-Sheet.git">
 <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
 Jenkins Cheat Sheet
