@@ -460,6 +460,19 @@ A comprehensive resource that introduces Jenkins and its role in continuous inte
 
 <tr>
 <td>
+<a href="https://github.com/Ritesh001-Git/Observability-cheat-sheet.git">
+<span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+Observability Cheat Sheet
+</span>
+</a>
+</td>
+<td style="color:#A8A8A8;">
+A curated Observability (o11y) cheat sheet covering the pillars of metrics, logs, and traces, along with essential commands, tools, and best practices. 📊
+</td>
+</tr>
+
+<tr>
+<td>
 <a href="https://github.com/Ritesh001-Git/Shell-Script-For-Devops">
 <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
 Shell Scripting
