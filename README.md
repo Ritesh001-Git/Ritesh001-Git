@@ -244,6 +244,26 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   <!-- Project 1 -->
   <tr>
     <td>
+      <a href="https://github.com/Ritesh001-Git/Repo2Docker.git">
+        <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
+          Repo2Docker
+        </span>
+      </a>
+    </td>
+    <td style="color:#A8A8A8;">
+      Repo2Docker is a lightweight web application that uses Jenkins to build and push Docker images from public GitHub repositories with a single click.    
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-D5D5D5?style=for-the-badge&logo=fastapi&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Python-D5D5D5?style=for-the-badge&logo=python&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Docker-D5D5D5?style=for-the-badge&logo=docker&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-D5D5D5?style=for-the-badge&logo=postgresql&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Jenkins-D5D5D5?style=for-the-badge&logo=jenkins&logoColor=0A0209"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
       <a href="https://github.com/Ritesh001-Git/gitops-platform.git">
         <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
           GitOps Deployment Platform
@@ -294,25 +314,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
   </tr>
 
   <!-- Project 3 -->
-  <tr>
-    <td>
-      <a href="https://github.com/Ritesh001-Git/Repo2Docker.git">
-        <span style="color:#D8D8D8; font-weight:700; text-shadow:0 0 4px #444;">
-          Repo2Docker
-        </span>
-      </a>
-    </td>
-    <td style="color:#A8A8A8;">
-      Repo2Docker is a lightweight web application that uses Jenkins to build and push Docker images from public GitHub repositories with a single click.    
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-D5D5D5?style=for-the-badge&logo=fastapi&logoColor=0A0209"/>
-      <img src="https://img.shields.io/badge/Python-D5D5D5?style=for-the-badge&logo=python&logoColor=0A0209"/>
-      <img src="https://img.shields.io/badge/Docker-D5D5D5?style=for-the-badge&logo=docker&logoColor=0A0209"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-D5D5D5?style=for-the-badge&logo=postgresql&logoColor=0A0209"/>
-      <img src="https://img.shields.io/badge/Jenkins-D5D5D5?style=for-the-badge&logo=jenkins&logoColor=0A0209"/>
-    </td>
-  </tr>
+  
 
   <!-- Project 4 -->
   <tr>
