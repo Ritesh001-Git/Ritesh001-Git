@@ -270,7 +270,6 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
       <img src="https://img.shields.io/badge/Logstash-D5D5D5?style=for-the-badge&logo=logstash&logoColor=0A0209"/>
       <img src="https://img.shields.io/badge/Kibana-D5D5D5?style=for-the-badge&logo=kibana&logoColor=0A0209"/>
       <img src="https://img.shields.io/badge/Jaeger-D5D5D5?style=for-the-badge&logo=jaeger&logoColor=0A0209"/>
-      <img src="https://img.shields.io/badge/SQLite-D5D5D5?style=for-the-badge&logo=sqlite&logoColor=0A0209"/>
     </td>
   </tr>
 
