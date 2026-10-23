@@ -242,6 +242,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
 <body>
 
   <!-- Project 1 -->
+  
   <tr>
     <td>
       <a href="https://github.com/Ritesh001-Git/Repo2Docker.git">
@@ -259,8 +260,21 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
       <img src="https://img.shields.io/badge/Docker-D5D5D5?style=for-the-badge&logo=docker&logoColor=0A0209"/>
       <img src="https://img.shields.io/badge/PostgreSQL-D5D5D5?style=for-the-badge&logo=postgresql&logoColor=0A0209"/>
       <img src="https://img.shields.io/badge/Jenkins-D5D5D5?style=for-the-badge&logo=jenkins&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Kubernetes_(K3s)-D5D5D5?style=for-the-badge&logo=kubernetes&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Helm-D5D5D5?style=for-the-badge&logo=helm&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Terraform-D5D5D5?style=for-the-badge&logo=terraform&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/AWS_EC2-D5D5D5?style=for-the-badge&logo=amazonec2&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Prometheus-D5D5D5?style=for-the-badge&logo=prometheus&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Grafana-D5D5D5?style=for-the-badge&logo=grafana&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Elasticsearch-D5D5D5?style=for-the-badge&logo=elasticsearch&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Logstash-D5D5D5?style=for-the-badge&logo=logstash&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Kibana-D5D5D5?style=for-the-badge&logo=kibana&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/Jaeger-D5D5D5?style=for-the-badge&logo=jaeger&logoColor=0A0209"/>
+      <img src="https://img.shields.io/badge/SQLite-D5D5D5?style=for-the-badge&logo=sqlite&logoColor=0A0209"/>
     </td>
   </tr>
+
+  <!-- Project 2 -->
   
   <tr>
     <td>
@@ -286,7 +300,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
     </td>
   </tr>
 
-  <!-- Project 2 -->
+  <!-- Project 3 -->
   <tr>
     <td>
       <a href="https://github.com/Ritesh001-Git/aI-cloud-cost-detective.git">
@@ -312,9 +326,6 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
       <img src="https://img.shields.io/badge/Grafana-D5D5D5?style=for-the-badge&logo=grafana&logoColor=0A0209"/>
     </td>
   </tr>
-
-  <!-- Project 3 -->
-  
 
   <!-- Project 4 -->
   <tr>
