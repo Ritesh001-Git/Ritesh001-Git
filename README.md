@@ -252,7 +252,7 @@ Sharpening problem-solving skills on LeetCode and GeeksforGeeks.
       </a>
     </td>
     <td style="color:#A8A8A8;">
-      Repo2Docker is a lightweight web application that uses Jenkins to build and push Docker images from public GitHub repositories with a single click.    
+      Repo2Docker is a web-based DevOps automation platform that takes a public GitHub repository and automates the process of building a Docker image, publishing it to Docker       Hub, and deploying it to Kubernetes for a preview environment. It combines a React frontend, a FastAPI backend, Jenkins CI/CD pipelines, Docker, AWS infrastructure              provisioned with Terraform, and an observability stack.  
     </td>
     <td>
       <img src="https://img.shields.io/badge/FastAPI-D5D5D5?style=for-the-badge&logo=fastapi&logoColor=0A0209"/>
